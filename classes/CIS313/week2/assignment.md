@@ -1,4 +1,4 @@
-## Week 2 Quiz (Click to start quiz)
+Week 2 Quiz (Click to start quiz)
 This is a 10 question quiz based on this week's topic.  It is open book, open notes, and you may take it as many times as necessary to achieve a perfect score.
 
 The quizzes are a "participation grade," which means that you can retake them as many times as necessary. However, please be aware that low scores are a sign that you need to go back to the reading assignment, slow down, and read more carefully. Many of the answers to this quiz are more general in nature and may not be found in this week's chapters, so you may have to do some extra research for the answers.
@@ -7,8 +7,7 @@ You need to take the quiz by the end of the week to earn credit.
 
 This quiz is worth 10 points.
 
-Item
-## Week 2 Discussion Requirement (Post to the Week 2 Discussion Forum)
+Week 2 Discussion Requirement (Post to the Week 2 Discussion Forum)
 One continued problem with cryptography is the restrictions associated with cryptographic export.  Find at least on article (not from Wikipedia) that discusses this topic, and summarize what you found.  Did it surprise you?  Was it what you expected?  Include citations for your resources.
 
 
@@ -23,7 +22,7 @@ General Posting Guidelines (for participation):  This assignment requires an Ori
 To start your original post, create a new thread with the title that includes the assignment name and your name.  (For example – “Week 1 - Mary Smith”) That way, everyone knows to whom they are responding.  In addition to your original post that should be posted by Friday, you must respond to other original posts made by your classmates to get credit for discussion.  A minimum of three responses that demonstrate critical thinking is required to receive minimum credit (80%) for participation (a 'B-' grade).  More participation means more credit. Reply messages with no content toward discussion such as "Good post." or "I agree" postings do not count. Please use Standard English with proper grammar, punctuation, and spelling in your postings. Also, your reply messages must be posted on more than one day – you shouldn’t plan to do everything on one day, and for sure not on the last day of the academic week. Don't wait until the last minute!
 
 Assignment
-## Week 2 Written Assignments (Attach to this assignment)
+Week 2 Written Assignments (Attach to this assignment)
 Attached Files:
 File Updated-W2_Worksheet.docx (14.646 KB)
 Open and complete the attached worksheet.  Make sure you show your work and put your name on the paper.
