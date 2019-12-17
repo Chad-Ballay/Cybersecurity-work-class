@@ -23,4 +23,6 @@ Repo of coursework for BS Cybersecurity.
 *  [College Acct Portal](https://bruin.bellevue.edu/) - Portal for university stuff.
 *  [Webmail/Office]( https://outlook.office.com) - Yet another portal.
 
+## Map of Certs
+![Map of Certs](./files/Security_Cert_Map.png)
 
