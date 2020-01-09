@@ -17,6 +17,7 @@ Repo of coursework for BS Cybersecurity.
 *  [Blackboard Portal](https://cyberactive.bellevue.edu/) - Portal for work.
 *  [College Acct Portal](https://bruin.bellevue.edu/) - Portal for university stuff.
 *  [Webmail/Office]( https://outlook.office.com) - Yet another portal.
+*  [VMWare Desktop](http://WORKSPACE.BELLEVUE.EDU) - Supplied desktop instance for school.
 
 ## Podcasts
 *  [Darknet Diaries](https://darknetdiaries.com/) - Brings some of the concepts we are learning alive by telling the realworld impact of them.
