@@ -1,6 +1,6 @@
 # CyberSecurity Notes
 
-Repo of coursework for BS Cybersecurity. 
+Repo of coursework for BS Cybersecurity.  
 [Catlog](./files/19-21-catalog.pdf)
 
 ## Classes
