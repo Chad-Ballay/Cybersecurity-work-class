@@ -1,0 +1,39 @@
+Defense in depth can best be described as which of the following?
+Selected Answer:	
+d. a layered approach to security
+
+Malware that creates networks of infected computers that can be controlled from a central station is referred to as which of the following?
+Selected Answer:	
+c. botnet
+
+Which type of firewall policy calls for a firewall to deny all traffic by default?
+Selected Answer:	
+d. restrictive policy
+
+Which security tool works by recognizing signs of a possible attack and sending notification to an administrator?
+Selected Answer:	
+c. IDPS
+
+What is the name of a storage area where viruses are placed by antivirus software so they cannot replicate or do harm to other files?
+Selected Answer:	
+c. quarantine
+
+What tool do you use to secure remote access by users who utilize the Internet?
+Selected Answer:	
+a. VPN
+
+Which of the following is a type of script that automates repetitive tasks in an application such as a word processor but can also be programmed to be a virus?
+Selected Answer:	
+c. macro
+
+What can an attacker use a port scanner to test for on a target computer?
+Selected Answer:	
+c. open sockets
+
+In which form of authentication does the authenticating device generate a random code and send it to the user who wants to be authenticated?
+Selected Answer:	
+b. challenge/response
+
+Which of the following is NOT one of the three primary goals of information security?
+Selected Answer:	
+a. impartiality
