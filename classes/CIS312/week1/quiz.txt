@@ -1,0 +1,39 @@
+The two types of biometric authentication are behavioral and ___________.
+Selected Answer:	
+Physical
+
+Which of the following is an example of “something you have”?
+Selected Answer:	
+Token
+
+The three principal components of access control are policies, _______ , and objects.
+Selected Answer:	
+Subjects
+
+What is the first step in the access control process?
+Selected Answer:	
+Identification
+
+Assigning group access controls eliminates individual accountability.
+Selected Answer:	
+False
+
+Physical security is always the responsibility of the IT department.
+Selected Answer:	
+False
+
+Which of the following describes technical methods used to enforce policies?
+Selected Answer:	
+Tools
+
+The three primary authentication factors are ‘something you have’, ‘something you know’, and which of the following
+Selected Answer:	
+something you are
+
+The three steps to acess control are identification, authentication and:
+Selected Answer:	
+authorization
+
+The subject is always a human user.
+Selected Answer:	
+False

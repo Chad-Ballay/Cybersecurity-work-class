@@ -1,14 +1,15 @@
 # CyberSecurity Notes
 
-Repo of coursework for BS Cybersecurity. 
+Repo of coursework for BS Cybersecurity.  
 [Catlog](./files/19-21-catalog.pdf)
 
 ## Classes
 
 | Course | Date | Grade|  
 | ------------- | ------------- | ------------- |  
-| [Cyber 250](classes/CYBR250/CYBR250.md)  | 11/18/2019  |
-| [CIS 313](classes/CIS313/CIS313.md) | 11/18/2019  |
+| [Cyber 250](classes/CYBR250/CYBR250.md)  | 11/18/2019  | A |
+| [CIS 313](classes/CIS313/CIS313.md) | 11/18/2019  | A |
+| [CIS 312](classes/CIS312/ ) | 2/10/2019 | |
 | Content Cell  |
 
 ## Links
