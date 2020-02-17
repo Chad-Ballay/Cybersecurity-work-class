@@ -1,0 +1,39 @@
+Which protocol is responsible for automatic assignment of IP addresses?
+Selected Answer:	
+c. DHCP
+
+What makes IP spoofing possible for computers on the Internet?
+Selected Answer:	
+c. the lack of authentication
+
+Which of the following is a highly secure public facility in which backbones have interconnected data lines and routers that exchange routing and traffic data?
+Selected Answer:	
+d. NAP
+
+How are the two parts of an IP address determined?
+Selected Answer:	
+a. subnet mask
+
+Which of the following is the broadcast address for subnet 192.168.10.32 with subnet mask 255.255.255.240
+Selected Answer:	
+b. 192.168.10.47
+
+Which of the following is a reason that UDP is faster than TCP?
+Selected Answer:	
+b. it doesn’t guarantee delivery
+
+What is the TCP portion of a packet called?
+Selected Answer:	
+d. segment
+
+Which of the following is the first packet sent in the TCP three-way handshake?
+Selected Answer:	
+b. SYN
+
+What type of DNS server is authoritative for a specific domain?
+Selected Answer:	
+d. primary
+
+What is a zone transfer?
+Selected Answer:	
+b. updating a secondary DNS server

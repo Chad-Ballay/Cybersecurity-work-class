@@ -1,0 +1,39 @@
+Which of the following is a subjective type of risk assessment?
+Selected Answer:	
+Qualitative
+
+You always calculate an ALE by multiplying the SLE by 12.
+Selected Answer:	
+False
+
+Calculate the SLE of a threat with an ARO of 4 and an ALE of $320,000.
+Selected Answer:	
+$80,000
+
+A vulnerability is a weakness discovered in the system.
+Selected Answer:	
+True
+
+Calculate the ALE of a threat that can be expected to occur four times per year, and will cost the organization $55,000 per incident.
+Selected Answer:	
+$220,000
+
+Vulnerabilities and threats are synonymous.
+Selected Answer:	
+False
+
+You should consider probablity of occurrence in order to prioritize limited time and resources.
+Selected Answer:	
+True
+
+Risk assessment is the last step in designing any access control system.
+Selected Answer:	
+False
+
+Calculate the ARO of a threat with a SLE of $5,000 and an ALE of $30,000.
+Selected Answer:	
+6
+
+As long as users choose strong, secure passwords, how those passwords are stored in irrelevant.
+Selected Answer:	
+False
