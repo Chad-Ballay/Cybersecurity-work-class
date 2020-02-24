@@ -15,6 +15,7 @@ Repo of coursework for BS Cybersecurity.
 
 ## Links
 *  [Guild](https://www.guildeducation.com/) - $1 day to go to school.  
+*  [Financial Aid Crap](https://bellevueuniversityfinancialaid.regenteducation.net/dashboard) - Seriously, I'm not going to take out loans yet I have to deal with the FAFSA.
 *  [Bellevue Curriculm](https://www.bellevue.edu/degrees/bachelor/cybersecurity-bs-cohort/) - Degree program I'm following
 *  [Blackboard Portal](https://cyberactive.bellevue.edu/) - Portal for work.
 *  [College Acct Portal](https://bruin.bellevue.edu/) - Portal for university stuff.
