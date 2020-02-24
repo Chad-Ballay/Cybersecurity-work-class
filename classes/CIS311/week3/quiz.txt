@@ -1,0 +1,39 @@
+What is the sequence of packets for a successful three-way handshake?
+Selected Answer:	
+d. SYN, SYN ACK, ACK
+
+Which element of an ICMP header would indicate that the packet is an ICMP echo request message.
+Selected Answer:	
+c. Type
+
+Which TCP flag can be the default response to a probe on a closed port?
+Selected Answer:	
+d. RST
+
+In which type of scan does an attacker scan only ports that are commonly used by specific programs?
+Selected Answer:	
+a. strobe scan
+
+Of what category of attack is a DoS attack an example?
+Selected Answer:	
+c. multiple-packet attack
+
+What type of attack does a remote-access Trojan attempt to perpetrate?
+Selected Answer:	
+b. back door
+
+Under which suspicious traffic signature category would a port scan fall?
+Selected Answer:	
+d. reconnaissance
+
+What is the packet called where a Web browser sends a request to the Web server for Web page data?
+Selected Answer:	
+b. HTTP GET
+
+What is the term used when an IDPS doesn’t recognize that an attack is underway?
+Selected Answer:	
+c. false negative
+
+Which of the following is an accurate set of characteristics you would find in an attack signature?
+Selected Answer:	
+d. IP address, TCP flags, port numbers

@@ -1,0 +1,40 @@
+A company can face fines for disclosing sensitive information, even if the disclosure was accidental.
+Selected Answer:	
+
+All information is potentially sensitive, so you should secure all of it.
+Selected Answer:	
+True
+
+How many years does it take before a document is considered for automatic declassification?
+Selected Answer:	
+25
+
+If information is common knowledge in one part of a company, it should always be available to all other parts of the company.
+Selected Answer:	
+False
+
+The three factors that affect operational efficiency are the right people, the right time, and which of the following?
+Selected Answer:	
+the right information
+
+What does PII stand for?
+Selected Answer:	
+Personally Identifiable Information
+
+Just like governments, corporations need to restrict access to information.
+Selected Answer:	
+True
+
+Government classification levels include:
+Selected Answers:	
+Secret
+Top Secret
+Confidential
+
+A confidentialty agreement is also known as a:
+Selected Answer:	
+NDA
+
+PII may not be disclosed without written consent under any circumstances.
+Selected Answer:	
+False
