@@ -1,0 +1,41 @@
+A company regulated by GLBA is only required to protect against proven security threats, not perceived security threats.
+Selected Answer:	
+False
+
+The Gramm-Leach-Bliley Act regulates which industy?
+Selected Answer:	
+Financial services
+
+HIPAA regulates which industy?
+Selected Answer:	
+Health Care
+
+What are the two primary causes of access control failure discussed in the chapter?
+Selected Answers:	
+People
+Technology
+
+Information security falls under the jurisdiction of federal law as well as state laws.
+Selected Answer:	
+True
+
+Which federal law discussed in the chapter allows civil actions to be brought against individuals who sell passwords?
+Selected Answer:	
+CFAA
+
+A security breach can result in both criminal penalties and financial losses.
+Selected Answer:	
+True
+
+Which federal law provides penalities for circumventing digital rights management?
+Selected Answer:	
+DMCA
+
+Mandatory access controls enforce access defined by the object owner.
+Selected Answer:	
+False
+
+Which of the following are types of security breaches? (Select all that apply.)
+Selected Answers:	
+System exploits
+Social Engineering
