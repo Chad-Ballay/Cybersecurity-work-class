@@ -1,0 +1,39 @@
+What is a Basic Service Set?
+Selected Answer:	
+c. a group of wireless devices served by a single AP
+
+Which popular wireless sniffer is an IDS that is passive and undetectable in operation?
+Selected Answer:	
+c. Kismet
+
+In which frequency range are you likely to find WLANs?
+Selected Answer:	
+d. 2.9-30 GHz
+
+Which of the following tasks does an AP typically perform?
+Selected Answer:	
+b. bridges between the wired and wireless network
+
+Which of the following is true about MAC addresses in a wireless network?
+Selected Answer:	
+b. you can change a WNICs MAC address with software
+
+Which of the following is true about the SSID?
+Selected Answer:	
+d. they can be Null
+
+What is considered to be one of the biggest weaknesses of WEP?
+Selected Answer:	
+c. 24-bit initialization vector
+
+Which wireless transmission method uses a hopping code?
+Selected Answer:	
+b. FHSS
+
+What function does a RADIUS server provide to a wireless network?
+Selected Answer:	
+b. authentication
+
+What is a potential problem with having too many APs in a given area?
+Selected Answer:	
+d. co-channel interference
