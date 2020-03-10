@@ -1,0 +1,39 @@
+What is contained in ARP tables?
+Selected Answer:	
+b. IP address, MAC address
+
+Which of the following is true about static routes?
+Selected Answer:	
+d. they are used for stub networks
+
+What should you set up if you want to store router system log files on a server?
+Selected Answer:	
+d. syslog server
+
+Current Microsoft OSs include IPv6, but to use it, you must enable it first.
+Selected Answer:	
+False
+
+Which of the following types of password prevents a user from accessing privileged exec mode on a Cisco router?
+Selected Answer:	
+b. enable
+
+Which of the following is a command you would find in an antispoofing ACL for network 172.31.0.0/16?
+Selected Answer:	
+d. deny ip 172.31.0.0 0.0.255.255 any log
+
+Which of the following makes routing tables more efficient?
+Selected Answer:	
+d. route summarization
+
+What remote shell program should you use if security is a consideration?
+Selected Answer:	
+c. ssh
+
+Which of the following types of traffic does NOT travel through routers?
+Selected Answer:	
+b. ARP requests
+
+Which feature of a router provides traffic flow and enhances network security?
+Selected Answer:	
+b. ACLs
