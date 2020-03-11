@@ -1,0 +1,40 @@
+Informing employees of security and acceptable use policies during orientation is not sufficient security training.
+Selected Answer:	
+True
+
+What element of human nature does a social engineer exploit?
+Selected Answer:	
+Trust
+
+Which of the following can help uncover dishonesty, such as fraud or theft, in the workplace? (Select two.)
+Selected Answers:	
+Mandatory vacation
+Job rotation
+
+The three main threat categories for information are confidentiality, integrity and which of the following?
+Selected Answer:	
+availability
+
+Which of the following is an access control system in which rights are assigned based on a user’s job function rather than their identity?
+Selected Answer:	
+Role-based
+
+Sensitive data does not need to be kept under access control.
+Selected Answer:	
+False
+
+Which of the following is an access control system in which rights are assigned by the owner of the resource?
+Selected Answer:	
+Discretionary
+
+Which of the following is an access control system in which rights are assigned by a central authority based on the classification of the data?
+Selected Answer:	
+Mandatory
+
+An employer can obtain an applicant’s medical records and credit reports without special consent from the applicant.
+Selected Answer:	
+False
+
+An employer can obtain an applicant’s driving records as part of a pre-employment check.
+Selected Answer:	
+True
