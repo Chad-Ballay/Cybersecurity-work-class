@@ -16,11 +16,11 @@ b. an HIDPS can detect attacks not caught by an NIDPS
 
 The period of time during which an IDPS monitors network traffic to observe what constitutes normal network behavior is referred to as which of the following?
 Selected Answer:	
-c. traffic normalizing
+c. training period
 
 Where is a host-based IDPS agent typically placed?
 Selected Answer:	
-c. between remote users and internal network
+c. on a workstation or server
 
 Which of the following is true about the steps in setting up and using an IDPS?
 Selected Answer:	
