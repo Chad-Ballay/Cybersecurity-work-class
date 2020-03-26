@@ -1,0 +1,79 @@
+Which element of a rule base conceals internal names and IP addresses from users outside the network?
+Selected Answer:	
+c. NAT
+
+What type of ICMP packet can an attacker use to send traffic to a computer they control outside the protected network?
+Selected Answer:	
+c. Redirect
+
+Which of the following is a typical drawback of a free firewall program?
+Selected Answer:	
+a. cannot monitor traffic in real time
+
+What is a suggested maximum size of a rule base?
+Selected Answer:	
+c. 30 rules
+
+Which two ports should packet-filtering rules address when establishing rules for Web access?
+Selected Answer:	
+c. 80, 443
+
+At what layer of the OSI model do proxy servers generally operate?
+Selected Answer:	
+d. Application
+
+Which of the following is an advantage of hardware firewalls?
+Selected Answer:	
+b. not dependent on a conventional OS
+
+What type of attack are stateless packet filters particularly vulnerable to?
+Selected Answer:	
+d. IP spoofing attacks
+
+Which of the following is described as the combination of an IP address and a port number?
+Selected Answer:	
+d. socket
+
+Which of the following is a general practice for a rule base?
+Selected Answer:	
+a. permit access to public servers in the DMZ
+
+Which of the following best describes a bastion host?
+Selected Answer:	
+b. a computer on the perimeter network that is highly protected
+
+What is the term used for a computer placed on the network perimeter that is meant to attract attackers?
+Selected Answer:	
+c. honeypot
+
+Which type of NAT is typically used on devices in the DMZ?
+Selected Answer:	
+a. one-to-one NAT
+
+What do you call a firewall that is connected to the Internet, the internal network, and the DMZ?
+Selected Answer:	
+a. three-pronged firewall
+
+Which of the following is true about a screening router?
+Selected Answer:	
+a. it should be combined with a firewall for better security
+
+What should you consider installing if you want to inspect packets as they leave the network?
+Selected Answer:	
+a. reverse firewall
+
+Which network device works at the Application layer by reconstructing packets and forwarding them to Web servers?
+Selected Answer:	
+c. proxy server
+
+Which of the following best describes a DMZ?
+Selected Answer:	
+a. a subnet of publicly accessible servers placed outside the internal network
+
+Which type of firewall configuration protects public servers by isolating them from the internal network?
+Selected Answer:	
+a. screened subnet DMZ
+
+Which of the following is true about private IP addresses?
+Selected Answer:	
+a. they are not routable on the Internet
