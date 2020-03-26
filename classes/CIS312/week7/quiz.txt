@@ -1,0 +1,83 @@
+An ACL is bound to a subject.
+Selected Answer:	
+False
+
+Which of the following is the most secure encryption method for WLANs?
+Selected Answer:	
+WPA
+
+Passwords should have a definite time limit associated with them.
+Selected Answer:	
+True
+
+VLANs can be used to segment networks.
+Selected Answer:	
+True
+
+Which IEEE standard defines WLANs?
+Selected Answer:	
+802.11
+
+Which of the following are components of a Kerberos system? (Select two.)
+Selected Answers:	
+AS
+TGT
+
+What does ACL stand for?
+Selected Answer:	
+Access control list
+
+Kerberos is an example of an SSO implementation.
+Selected Answer:	
+True
+
+A swtich is a device used on which layer of the OSI model?
+Selected Answer:	
+Layer 2
+
+What are the two varieties of token devices?
+Selected Answers:	
+Synchronous
+Asynchronous
+
+Which of the following is a body of the U.S. government that provides standards for financial institutions?
+Selected Answer:	
+FFEIC
+
+What is the trusted source for an SSL certificate called?
+Selected Answer:	
+Certificate authority
+
+Extranets are extensions of the corporate network for business partners and customers.
+Selected Answer:	
+True
+
+NIST sets the FISMA standards for the federal IT systems.
+Selected Answer:	
+True
+
+Which of the following indicates you are using a secure web site? (Select two)
+Selected Answers:	
+URL starts with ‘https’
+Padlock icon
+
+Which of the following is the minimum for e-commerce implementation using SSL?
+Selected Answer:	
+128-bit
+
+Which of the following is the largest developer and publisher of international standards?
+Selected Answer:	
+ISO
+
+A standard provides recommendations on how security requirements are to be met.
+Selected Answer:	
+False
+
+Which of the following are elements of Web 2.0? (Select two.)
+Selected Answers:	
+Blogs
+Wikis
+
+Which of the following organizations develops RFCs?
+Selected Answer:	
+IETF
