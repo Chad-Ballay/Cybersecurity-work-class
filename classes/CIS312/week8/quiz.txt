@@ -1,0 +1,82 @@
+PAP and CHAP both send the password as a hash value.
+Selected Answer:	
+False
+
+Which of the following applies to CHAP?
+Selected Answer:	
+Three-way handshake
+
+CISCO developed both the TACACS+ and the XTACACS protocols.
+Selected Answer:	
+True
+
+What is the de facto standard for IPSec key exchange?
+Selected Answer:	
+IKE
+
+A ‘shared secret’ case-sensitive text string is used to validate communications between a RADIUS client and a RADIUS server.
+Selected Answer:	
+True
+
+TACACS+ encrypts the entire data packet.
+Selected Answer:	
+True
+
+Which of the following applies to PAP?
+Selected Answer:	
+Two-way handshake
+
+What type of program can run as a background process?
+Selected Answer:	
+Daemon
+
+RADIUS uses UDP for transport.
+Selected Answer:	
+True
+
+MD5 is produces an encyrpted message.
+Selected Answer:	
+False
+
+How long is an RSA ley length in bits?
+Selected Answer:	
+1024
+
+Which of the following are examples of symmetric encryption? (Select two.)
+Selected Answers:	
+3DES
+AES
+
+Digital signatures provide which of the following? (Select two.)
+Selected Answers:	
+Integrity
+Non-repudiation
+
+Which of the following is a standard for certificates?
+Selected Answer:	
+X.509
+
+PKI is also known as public key encryption.
+Selected Answer:	
+False
+
+Which of the following is an encryption key size length commonly used with public key algorithms?
+Selected Answer:	
+1024
+
+A Certificate authority (CA) may be internal or external to the organization.
+Selected Answer:	
+True
+
+Which of the following are examples of asymmetric encryption? (Select two.)
+Selected Answers:	
+Diffie-Helman
+RSA
+
+Which of the following terms is the range of values that construct a cryptosystem key?
+Selected Answer:	
+Keyspace
+
+Symmetric key encryption is faster than asymmetric key encryption.
+Selected Answer:	
+True
