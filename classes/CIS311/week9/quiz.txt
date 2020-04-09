@@ -1,0 +1,353 @@
+What was created to address the problem of remote clients not meeting an organization’s VPN security standards?
+Selected Answer:	
+b. VPN quarantine
+
+Which activity performed by VPNs encloses a packet within another packet?
+Selected Answer:	
+d. encapsulation
+
+Which IPsec component is software that handles the tasks of encrypting, authenticating,
+decrypting, and checking packets?
+Selected Answer:	
+a. IPsec driver
+
+Which VPN protocol works at Layer 3 and can encrypt the entire TCP/IP packet?
+Selected Answer:	
+a. IPsec
+
+Which of the following is true about SSL?
+Selected Answer:	
+b. it uses sockets to communicate between client and server
+
+Which VPN protocol leverages Web-based applications?
+Selected Answer:	
+b. SSL
+
+Which of the following is a type of VPN connection?
+Selected Answer:	
+c. client-to-site
+
+Which of the following is a disadvantage of putting the VPN on a firewall?
+Selected Answer:	
+a. Internet and VPN traffic compete for resources
+
+Which of the following is true about software VPNs?
+Selected Answer:	
+a. more cost-effective than hardware VPNs
+
+Which of the following is true about using VPNs?
+Selected Answer:	
+d. can use an existing broadband connection
+What is an advantage of the anomaly detection method?
+Selected Answer:	
+d. system can detect attacks from inside the network by people with stolen accounts
+
+Which type of IDPS can have the problem of getting disparate systems to work in a coordinated fashion?
+Selected Answer:	
+c. hybrid
+
+Which of the following is an advantage of a signature-based detection system?
+Selected Answer:	
+d. each signature is assigned a number and name
+
+Which of the following is true about an NIDPS versus an HIDPS?
+Selected Answer:	
+b. an HIDPS can detect attacks not caught by an NIDPS
+
+The period of time during which an IDPS monitors network traffic to observe what constitutes normal network behavior is referred to as which of the following?
+Selected Answer:	
+c. training period
+
+Where is a host-based IDPS agent typically placed?
+Selected Answer:	
+c. on a workstation or server
+
+Which of the following is true about the steps in setting up and using an IDPS?
+Selected Answer:	
+a. false positives do not compromise network security
+
+Which of the following is NOT a primary detection methodology?
+Selected Answer:	
+c. baseline detection
+
+Which IDPS customization option is a list of entities known to be harmless?
+Selected Answer:	
+c. whitelists
+
+Which of the following is an IDPS security best practice?
+Selected Answer:	
+b. communication between IDPS components should be encrypted
+Defense in depth can best be described as which of the following?
+Selected Answer:	
+d. a layered approach to security
+
+Malware that creates networks of infected computers that can be controlled from a central station is referred to as which of the following?
+Selected Answer:	
+c. botnet
+
+Which type of firewall policy calls for a firewall to deny all traffic by default?
+Selected Answer:	
+d. restrictive policy
+
+Which security tool works by recognizing signs of a possible attack and sending notification to an administrator?
+Selected Answer:	
+c. IDPS
+
+What is the name of a storage area where viruses are placed by antivirus software so they cannot replicate or do harm to other files?
+Selected Answer:	
+c. quarantine
+
+What tool do you use to secure remote access by users who utilize the Internet?
+Selected Answer:	
+a. VPN
+
+Which of the following is a type of script that automates repetitive tasks in an application such as a word processor but can also be programmed to be a virus?
+Selected Answer:	
+c. macro
+
+What can an attacker use a port scanner to test for on a target computer?
+Selected Answer:	
+c. open sockets
+
+In which form of authentication does the authenticating device generate a random code and send it to the user who wants to be authenticated?
+Selected Answer:	
+b. challenge/response
+
+Which of the following is NOT one of the three primary goals of information security?
+Selected Answer:	
+a. impartiality
+Which element of a rule base conceals internal names and IP addresses from users outside the network?
+Selected Answer:	
+c. NAT
+
+What type of ICMP packet can an attacker use to send traffic to a computer they control outside the protected network?
+Selected Answer:	
+c. Redirect
+
+Which of the following is a typical drawback of a free firewall program?
+Selected Answer:	
+a. cannot monitor traffic in real time
+
+What is a suggested maximum size of a rule base?
+Selected Answer:	
+c. 30 rules
+
+Which two ports should packet-filtering rules address when establishing rules for Web access?
+Selected Answer:	
+c. 80, 443
+
+At what layer of the OSI model do proxy servers generally operate?
+Selected Answer:	
+d. Application
+
+Which of the following is an advantage of hardware firewalls?
+Selected Answer:	
+b. not dependent on a conventional OS
+
+What type of attack are stateless packet filters particularly vulnerable to?
+Selected Answer:	
+d. IP spoofing attacks
+
+Which of the following is described as the combination of an IP address and a port number?
+Selected Answer:	
+d. socket
+
+Which of the following is a general practice for a rule base?
+Selected Answer:	
+a. permit access to public servers in the DMZ
+
+Which of the following best describes a bastion host?
+Selected Answer:	
+b. a computer on the perimeter network that is highly protected
+
+What is the term used for a computer placed on the network perimeter that is meant to attract attackers?
+Selected Answer:	
+c. honeypot
+
+Which type of NAT is typically used on devices in the DMZ?
+Selected Answer:	
+a. one-to-one NAT
+
+What do you call a firewall that is connected to the Internet, the internal network, and the DMZ?
+Selected Answer:	
+a. three-pronged firewall
+
+Which of the following is true about a screening router?
+Selected Answer:	
+a. it should be combined with a firewall for better security
+
+What should you consider installing if you want to inspect packets as they leave the network?
+Selected Answer:	
+a. reverse firewall
+
+Which network device works at the Application layer by reconstructing packets and forwarding them to Web servers?
+Selected Answer:	
+c. proxy server
+
+Which of the following best describes a DMZ?
+Selected Answer:	
+a. a subnet of publicly accessible servers placed outside the internal network
+
+Which type of firewall configuration protects public servers by isolating them from the internal network?
+Selected Answer:	
+a. screened subnet DMZ
+
+Which of the following is true about private IP addresses?
+Selected Answer:	
+a. they are not routable on the Internet
+
+Which protocol is responsible for automatic assignment of IP addresses?
+Selected Answer:	
+c. DHCP
+
+What makes IP spoofing possible for computers on the Internet?
+Selected Answer:	
+c. the lack of authentication
+
+Which of the following is a highly secure public facility in which backbones have interconnected data lines and routers that exchange routing and traffic data?
+Selected Answer:	
+d. NAP
+
+How are the two parts of an IP address determined?
+Selected Answer:	
+a. subnet mask
+
+Which of the following is the broadcast address for subnet 192.168.10.32 with subnet mask 255.255.255.240
+Selected Answer:	
+b. 192.168.10.47
+
+Which of the following is a reason that UDP is faster than TCP?
+Selected Answer:	
+b. it doesn’t guarantee delivery
+
+What is the TCP portion of a packet called?
+Selected Answer:	
+d. segment
+
+Which of the following is the first packet sent in the TCP three-way handshake?
+Selected Answer:	
+b. SYN
+
+What type of DNS server is authoritative for a specific domain?
+Selected Answer:	
+d. primary
+
+What is a zone transfer?
+Selected Answer:	
+b. updating a secondary DNS serverWhat is a Basic Service Set?
+Selected Answer:	
+c. a group of wireless devices served by a single AP
+
+Which popular wireless sniffer is an IDS that is passive and undetectable in operation?
+Selected Answer:	
+c. Kismet
+
+In which frequency range are you likely to find WLANs?
+Selected Answer:	
+d. 2.9-30 GHz
+
+Which of the following tasks does an AP typically perform?
+Selected Answer:	
+b. bridges between the wired and wireless network
+
+Which of the following is true about MAC addresses in a wireless network?
+Selected Answer:	
+b. you can change a WNICs MAC address with software
+
+Which of the following is true about the SSID?
+Selected Answer:	
+d. they can be Null
+
+What is considered to be one of the biggest weaknesses of WEP?
+Selected Answer:	
+c. 24-bit initialization vector
+
+Which wireless transmission method uses a hopping code?
+Selected Answer:	
+b. FHSS
+
+What function does a RADIUS server provide to a wireless network?
+Selected Answer:	
+b. authentication
+
+What is a potential problem with having too many APs in a given area?
+Selected Answer:	
+d. co-channel interference
+What is contained in ARP tables?
+Selected Answer:	
+b. IP address, MAC address
+
+Which of the following is true about static routes?
+Selected Answer:	
+d. they are used for stub networks
+
+What should you set up if you want to store router system log files on a server?
+Selected Answer:	
+d. syslog server
+
+Current Microsoft OSs include IPv6, but to use it, you must enable it first.
+Selected Answer:	
+False
+
+Which of the following types of password prevents a user from accessing privileged exec mode on a Cisco router?
+Selected Answer:	
+b. enable
+
+Which of the following is a command you would find in an antispoofing ACL for network 172.31.0.0/16?
+Selected Answer:	
+d. deny ip 172.31.0.0 0.0.255.255 any log
+
+Which of the following makes routing tables more efficient?
+Selected Answer:	
+d. route summarization
+
+What remote shell program should you use if security is a consideration?
+Selected Answer:	
+c. ssh
+
+Which of the following types of traffic does NOT travel through routers?
+Selected Answer:	
+b. ARP requests
+
+Which feature of a router provides traffic flow and enhances network security?
+Selected Answer:	
+b. ACLs
+What is the sequence of packets for a successful three-way handshake?
+Selected Answer:	
+d. SYN, SYN ACK, ACK
+
+Which element of an ICMP header would indicate that the packet is an ICMP echo request message.
+Selected Answer:	
+c. Type
+
+Which TCP flag can be the default response to a probe on a closed port?
+Selected Answer:	
+d. RST
+
+In which type of scan does an attacker scan only ports that are commonly used by specific programs?
+Selected Answer:	
+a. strobe scan
+
+Of what category of attack is a DoS attack an example?
+Selected Answer:	
+c. multiple-packet attack
+
+What type of attack does a remote-access Trojan attempt to perpetrate?
+Selected Answer:	
+b. back door
+
+Under which suspicious traffic signature category would a port scan fall?
+Selected Answer:	
+d. reconnaissance
+
+What is the packet called where a Web browser sends a request to the Web server for Web page data?
+Selected Answer:	
+b. HTTP GET
+
+What is the term used when an IDPS doesn’t recognize that an attack is underway?
+Selected Answer:	
+c. false negative
+
+Which of the following is an accurate set of characteristics you would find in an attack signature?
+Selected Answer:	
+d. IP address, TCP flags, port numbers
