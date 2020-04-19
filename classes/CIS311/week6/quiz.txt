@@ -1,0 +1,39 @@
+What is an advantage of the anomaly detection method?
+Selected Answer:	
+d. system can detect attacks from inside the network by people with stolen accounts
+
+Which type of IDPS can have the problem of getting disparate systems to work in a coordinated fashion?
+Selected Answer:	
+c. hybrid
+
+Which of the following is an advantage of a signature-based detection system?
+Selected Answer:	
+d. each signature is assigned a number and name
+
+Which of the following is true about an NIDPS versus an HIDPS?
+Selected Answer:	
+b. an HIDPS can detect attacks not caught by an NIDPS
+
+The period of time during which an IDPS monitors network traffic to observe what constitutes normal network behavior is referred to as which of the following?
+Selected Answer:	
+c. training period
+
+Where is a host-based IDPS agent typically placed?
+Selected Answer:	
+c. on a workstation or server
+
+Which of the following is true about the steps in setting up and using an IDPS?
+Selected Answer:	
+a. false positives do not compromise network security
+
+Which of the following is NOT a primary detection methodology?
+Selected Answer:	
+c. baseline detection
+
+Which IDPS customization option is a list of entities known to be harmless?
+Selected Answer:	
+c. whitelists
+
+Which of the following is an IDPS security best practice?
+Selected Answer:	
+b. communication between IDPS components should be encrypted

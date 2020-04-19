@@ -1,0 +1,40 @@
+What was created to address the problem of remote clients not meeting an organization’s VPN security standards?
+Selected Answer:	
+b. VPN quarantine
+
+Which activity performed by VPNs encloses a packet within another packet?
+Selected Answer:	
+d. encapsulation
+
+Which IPsec component is software that handles the tasks of encrypting, authenticating,
+decrypting, and checking packets?
+Selected Answer:	
+a. IPsec driver
+
+Which VPN protocol works at Layer 3 and can encrypt the entire TCP/IP packet?
+Selected Answer:	
+a. IPsec
+
+Which of the following is true about SSL?
+Selected Answer:	
+b. it uses sockets to communicate between client and server
+
+Which VPN protocol leverages Web-based applications?
+Selected Answer:	
+b. SSL
+
+Which of the following is a type of VPN connection?
+Selected Answer:	
+c. client-to-site
+
+Which of the following is a disadvantage of putting the VPN on a firewall?
+Selected Answer:	
+a. Internet and VPN traffic compete for resources
+
+Which of the following is true about software VPNs?
+Selected Answer:	
+a. more cost-effective than hardware VPNs
+
+Which of the following is true about using VPNs?
+Selected Answer:	
+d. can use an existing broadband connection

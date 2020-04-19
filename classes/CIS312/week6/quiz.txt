@@ -1,0 +1,41 @@
+Data residing in a system’s buffers is considered to be data in motion.
+Selected Answer:	
+False
+
+Why should an organization automate user creation? (Select two.)
+Selected Answers:	
+To save time and effort for the IT staff.
+To accurately add, modify or remove access rights.
+
+Which operating system(s) implements the most granular access control?
+Selected Answer:	
+Windows
+
+Fencing, light and security guards are all important parts of what aspect of physical security?
+Selected Answer:	
+Perimeter security
+
+In which operating system(s) is rwxr-xr-x an example of rights notation?
+Selected Answer:	
+Linux\UNIX
+
+A good physical security strategy relies on a strong single point of access control.
+Selected Answer:	
+False
+
+What is the first step in designing a physical security system?
+Selected Answer:	
+Conduct a security audit.
+
+Most biometric access control systems are used in which mode?
+Selected Answer:	
+Verification
+
+Cameras trained on entry and exit points provide which security benefits? (Select two.)
+Selected Answers:	
+Allow guards to monitor activity in real time.
+A record of who enters and leaves the building
+
+What is the name of the short vertical post designed to control traffic and prevent vehicular attacks on a building?
+Selected Answer:	
+Bollard
