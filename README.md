@@ -9,8 +9,10 @@ Repo of coursework for BS Cybersecurity.
 | ------------- | ------------- | ------------- |  
 | [Cyber 250](classes/CYBR250/CYBR250.md)  | 11/18/2019  | A |
 | [CIS 313](classes/CIS313/CIS313.md) | 11/18/2019  | A |
-| [CIS 312](classes/CIS312/ ) | 2/10/2019 | |
-| [CIS 311](classes/CIS311/ ) | 2/10/2019 | |
+| [CIS 312](classes/CIS312/ ) | 2/10/2019 | A |
+| [CIS 311](classes/CIS311/ ) | 2/10/2019 | A |
+| [CIS 411](classes/CIS411/ ) | 4/20/2020 | |
+| [CYBR 320](classes/CYBR320/ ) | 4/20/2020 | |
 | Content Cell  |
 
 ## Links

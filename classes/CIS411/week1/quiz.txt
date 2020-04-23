@@ -1,0 +1,41 @@
+An IT Audit is the same thing as an IT Assessment?
+Selected Answer:	
+False
+
+Building and maintaining good relationships with the IT organization are critical elements of the IT audit team's success.
+Selected Answer:	
+True
+
+Which is not a typical certification for an IT Auditor?
+Selected Answer:	
+1. MBA
+
+What are the two main methodologies for both assessments and audits?
+Selected Answers:	
+1. Qualitative
+3. Quantitative
+
+__________ is the initial step to evaluate and identify risks and consequences
+associated with vulnerabilities, and to provide a basis for management to establish a cost-effective security program.
+Selected Answer:	
+3. Assessing security risk
+
+The input of asset identification & valuation process is an inventory checklist of assets with their corresponding values.
+Selected Answer:	
+False
+
+What is one of the cornerstone principles of an audit department?
+Selected Answer:	
+4. Independence
+
+A ______________ can be defined as a process or event with the security policy or standards as a basis to determine the overall state of the existing protection and to verify whether the existing protection has been performed properly.
+Selected Answer:	
+3. Security audit
+
+An IT Auditor may be called to review:
+Selected Answer:	
+5. All of the above
+
+Which is not a Security Risk Assessment step?
+Selected Answer:	
+1. IT Audit

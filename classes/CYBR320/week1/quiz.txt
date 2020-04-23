@@ -1,0 +1,39 @@
+Rachel is investigating an information security incident that took place at the high school where she works. She suspects that students may have broken into the student records system and altered their grades. If correct, which one of the tenets of information security did this attack violate?
+Selected Answer:	
+Integrity
+
+Which element of the security policy framework requires approval from upper management and applies to the entire organization?
+Selected Answer:	
+Policy
+
+Which element of the IT security policy framework provides detailed written definitions for hardware and software and how they are to be used?
+Selected Answer:	
+Standard
+
+Juan's web server was down for an entire day last September. It experienced no other downtime during that month. Which one of the following represents the web server uptime for that month?
+Selected Answer:	
+96.67%
+
+Which term describes any action that could damage an asset?
+Selected Answer:	
+Threat
+
+Chris is writing a document that provides step-by-step instructions for end users seeking to update the security software on their computers. Performing these updates is mandatory. Which type of document is Chris writing?
+Selected Answer:	
+Procedure
+
+Which element of the security policy framework offers suggestions rather than mandatory actions?
+Selected Answer:	
+Guideline
+
+What is NOT a common endpoint for a virtual private network (VPN) connection used for remote network access?
+Selected Answer:	
+Content filter
+
+Which risk is most effectively mitigated by an upstream Internet service provider (ISP)?
+Selected Answer:	
+Distributed denial of service (DDoS)
+
+Which one of the following measures the average amount of time that it takes to repair a system, application, or component?
+Selected Answer:	
+Mean time to repair (MTTR)
