@@ -1,0 +1,39 @@
+The ___________ is the central part of a computing environment's hardware, software, and firmware that enforces access control.
+Selected Answer:	
+security kernel
+
+Which characteristic of a biometric system measures the system's accuracy using a balance of different error types?
+Selected Answer:	
+Crossover error rate (CER)
+
+Which one of the following principles is NOT a component of the Biba integrity model?
+Selected Answer:	
+Subjects cannot change objects that have a lower integrity level.
+
+Which security model does NOT protect the integrity of information?
+Selected Answer:	
+Bell-LaPadula
+
+Which one of the following is an example of a logical access control?
+Selected Answer:	
+Password
+
+During which phase of the access control process does the system answer the question,"What can the requestor access?"
+Selected Answer:	
+Authorization
+
+Gary would like to choose an access control model in which the owner of a resource decides who may modify permissions on that resource. Which model fits that scenario?
+Selected Answer:	
+Discretionary access control (DAC)
+
+Ed wants to make sure that his system is designed in a manner that allows tracing actions to an individual. Which phase of access control is Ed concerned about?
+Selected Answer:	
+Accountability
+
+Which one of the following is an example of two-factor authentication?
+Selected Answer:	
+Smart card and personal identification number (PIN)
+
+What is a single sign-on (SSO) approach that relies upon the use of key distribution centers (KDCs) and ticket-granting servers (TGSs)?
+Selected Answer:	
+Kerberos

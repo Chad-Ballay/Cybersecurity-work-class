@@ -1,0 +1,39 @@
+Which term describes an action that can damage or compromise an asset?
+Selected Answer:	
+Threat
+
+Earl is preparing a risk register for his organization's risk management program. Which data element is LEAST likely to be included in a risk register?
+Selected Answer:	
+Risk survey results
+
+George is the risk manager for a U.S. federal government agency. He is conducting a risk assessment for that agency's IT risk. What methodology is best suited for George's use?
+Selected Answer:	
+Risk Management Guide for Information Technology Systems (NIST SP800-30)
+
+Dawn is selecting an alternative processing facility for her organization's primary data center. She would like to have a facility that balances cost and switchover time. What would be the best option in this situation?
+Selected Answer:	
+Warm site
+
+Which formula is typically used to describe the components of information security risks?
+Selected Answer:	
+Risk = Threat X Vulnerability
+
+Maria's company recently experienced a major system outage due to the failure of a critical component. During that time period, the company did not register any sales through its online site. Which type of loss did the company experience as a result of lost sales?
+Selected Answer:	
+Opportunity cost
+
+Alan is developing a business impact assessment for his organization. He is working with business units to determine the maximum allowable time to recover a particular function. What value is Alan determining?
+Selected Answer:	
+Recovery time objective (RTO)
+
+What is NOT one of the three tenets of information security?
+Selected Answer:	
+Safety
+
+Brian notices an attack taking place on his network. When he digs deeper, he realizes that the attacker has a physical presence on the local network and is forging Media Access Control (MAC) addresses. Which type of attack is most likely taking place?
+Selected Answer:	
+Address Resolution Protocol (ARP) poisoning
+
+As a follow-up to her annual testing, Holly would like to conduct quarterly disaster recovery tests that introduce as much realism as possible but do not require the use of technology resources. What type of test should Holly conduct?
+Selected Answer:	
+Simulation test

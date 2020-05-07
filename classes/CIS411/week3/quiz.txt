@@ -1,0 +1,39 @@
+ In which section of the Sarbanes-Oxley Act does it state that the CEO and CFO must attest that internal controls are in place, documented, and effective?
+Selected Answer:	
+c. Section 404
+
+ ________ are the policies and procedures that help to ensure that management directives are followed.
+Selected Answer:	
+c. Control Activities
+
+Which of the following is not one of the 11 core areas outlined in the ISO 27001 International Standard for Security Management?
+Selected Answer:	
+c.  Security Technology Management
+
+The most commonly identified component of HIPAA is a body of sensitive data commonly known as:
+Selected Answer:	
+a. Protected Health Information (PHI)
+
+In 2002, the U.S. Government responded to the rash of notorious corporate scandals by enacting which act?
+Selected Answer:	
+d. Sarbanes-Oxley Act
+
+A company that has processes that are documented and communicated, but not monitored or measured is what level of the ITGI maturity scale:
+Selected Answer:	
+d. 3- Defined
+
+According to the book, which of the following is not a feature of COBIT:
+Selected Answer:	
+a. COBIT is based on specific processes and technologies that must be used.
+
+What is the formal title of the Gramm-Leach-Bliley Act?
+Selected Answer:	
+c. Financial Services Modernization Act
+
+COSO was initiated in 1985 to assess how best to improve the quality of financial reporting.  What does COSO stand for:
+Selected Answer:	
+c.  Committee of Sponsoring Organizations
+
+Which of the company’s below is not one of the original creators of the Payment Card Industry (PCI)?
+Selected Answer:	
+b. Citi Bank
