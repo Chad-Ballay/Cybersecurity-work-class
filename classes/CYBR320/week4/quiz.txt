@@ -1,0 +1,40 @@
+What is NOT a principle for privacy created by the Organization for Economic Cooperation and Development (OECD)?
+Selected Answer:	
+An organization should share its information.
+
+From a security perspective, what should organizations expect will occur as they become more dependent upon the Internet of Things (IoT)?
+Selected Answer:	
+Security risks will increase.
+
+Ann is creating a template for the configuration of Windows servers in her organization. It includes the basic security settings that should apply to all systems. What type of document should she create?
+Selected Answer:	
+Baseline
+
+Janet is identifying the set of privileges that should be assigned to a new employee in her organization. Which phase of the access control process is she performing?
+Selected Answer:	
+Authorization
+
+Which agreement type is typically less formal than other agreements and expresses areas of common interest?
+Selected Answer:	
+Memorandum of understanding (MOU)
+
+Biyu is making arrangements to use a third-party service provider for security services. She wants to document a requirement for timely notification of security breaches. What type of agreement is most likely to contain formal requirements of this type?
+Selected Answer:	
+Service level agreement (SLA)
+
+In an accreditation process, who has the authority to approve a system for implementation?
+Selected Answer:	
+Authorizing official (AO)
+
+Karen is designing a process for issuing checks and decides that one group of users will have the authority to create new payees in the system while a separate group of users will have the authority to issue checks to those payees. The intent of this control is to prevent fraud. Which principle is Karen enforcing?
+Selected Answer:	
+Separation of duties
+
+Aditya is attempting to classify information regarding a new project that his organization will undertake in secret. Which characteristic is NOT normally used to make these type of classification decisions?
+Selected Answer:	
+Threat
+
+What is the correct order of steps in the change control process?
+Selected Answer:	
+Request, impact assessment, approval, build/test, implement, monitor
+

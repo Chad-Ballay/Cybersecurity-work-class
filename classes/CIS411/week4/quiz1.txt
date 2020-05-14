@@ -1,0 +1,52 @@
+What is usually accomplished through a variety of means such as packet sniffing, hijacking TCP connections, port scanning, and address resolution protocol (ARP) spoofing?
+Selected Answer:	
+a. Exploitation
+
+Put the steps in the Hackers Methodology as defined in the document in order:
+Answers	Selected Answer
+Test/obtain access through user privileges
+1. Perform a footprint analysis
+Escalate privileges
+2. Enumerate targets
+Enumerate targets
+3. Test/obtain access through user privileges
+Leverage the compromised system
+4. Escalate privileges
+ Install backdoors
+5. Gather additional passwords
+Gather additional passwords
+6.  Install backdoors
+Perform a footprint analysis
+7. Leverage the compromised system
+
+What tools are used to search for the presence of vulnerabilities on Internet sites including default accounts, directory traversal attacks, and form validation errors?
+Selected Answer:	
+c. Web application scanning
+
+According to the document, which of the following is not a factor to consider when assessing the impact of vulnerabilities that increase the severity of a compromise:
+Selected Answer:	
+c. Policy Compliance
+
+____________ are specific guidelines and procedures to accomplish the secure setup, operation, and maintenance of an information system.
+Selected Answer:	
+b. System Security plans
+
+Inadequate _________________________ are amongst the most serious vulnerabilities because they can jeopardize virtually all assets.
+Selected Answer:	
+b. Security awareness and training
+
+(T/F) Vulnerabilities are proportional to safeguard effectiveness.
+Selected Answer:	
+False
+
+Which statement about vulnerabilities are not true:
+Selected Answer:	
+d. Vulnerabilities are solely as “inadequacies” in software.
+
+What term refers to grabbing information that a network service broadcasts about itself?
+Selected Answer:	
+d. Banner Grabbing
+
+ In a system where the safeguards are largely ineffective, the probability of compromise is:
+Selected Answer:	
+b. High

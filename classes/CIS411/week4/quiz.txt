@@ -1,0 +1,39 @@
+__________________ such as employee morale and public confidence, are largely matters of attitude arising from personal perceptions, both individuals and collective.
+Selected Answer:	
+b.  Intangible Assets
+
+Which of the following is not a good source for gathering asset data.
+Selected Answer:	
+e.  Chief Executive Officer (CEO)
+
+ Rules of behavior and security planning are what kind of controls:
+Selected Answer:	
+b. Management controls
+
+Of the asset classes identified, impact on the confidentiality, integrity, or availability of these assets causes severe or catastrophic loss to the organization:
+Selected Answer:	
+d. High Business Impact
+
+The extent of potential damage is defined as:
+Selected Answer:	
+a. Asset exposure
+
+Which of the following is not an example of a Low Business Impact:
+Selected Answer:	
+d. Personally identifiable information (PII)
+
+Which of the following is not considered system-related information:
+Selected Answer:	
+d.  Office furniture
+
+      _________________ with IT system support and management personnel can enable assessment personnel to collect useful information about the IT system (e.g., how the system is operated and managed) by asking face to face questions of systems administrators.
+Selected Answer:	
+b. Interviews
+
+The following are threat actions associated with which threat source: Hacking, Social Engineering, and System Breaches:
+Selected Answer:	
+b.  Hacker / cracker
+
+Which threat involves human beings and a measure of planning or premeditation?
+Selected Answer:	
+c.  Deliberate
