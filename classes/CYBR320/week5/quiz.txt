@@ -37,3 +37,44 @@ Secure Sockets Layer (SSL)
 What is a set of concepts and policies for managing IT infrastructure, development, and operations?
 Selected Answer:	
 IT Infrastructure Library (ITIL)
+
+
+Tom is the IT manager for an organization that experienced a server failure that affected a single business function. What type of plan should guide the organization's recovery effort?
+Selected Answer: 	
+Business continuity plan (BCP)
+
+Which formula is typically used to describe the components of information security risks?
+Selected Answer: 	
+Risk = Threat X Vulnerability
+
+What term describes the risk that exists after an organization has performed all planned countermeasures and controls?
+Selected Answer: 	
+Residual risk
+
+Adam is evaluating the security of a web server before it goes live. He believes that an issue in the code allows an SQL injection attack against the server. What term describes the issue that Adam discovered?
+Selected Answer: 	
+Vulnerability
+
+Purchasing an insurance policy is an example of the ____________ risk management strategy.
+Selected Answer: 	
+transfer
+
+George is the risk manager for a U.S. federal government agency. He is conducting a risk assessment for that agency's IT risk. What methodology is best suited for George's use?
+Selected Answer: 	
+Risk Management Guide for Information Technology Systems (NIST SP800-30)
+
+Forensics and incident response are examples of __________ controls.
+Selected Answer: 	
+corrective
+
+Kim is the risk manager for a large organization. She is evaluating whether the organization should purchase a fire suppression system. She consulted a variety of subject matter experts and determined that there is a 1 percent chance that a fire will occur in a given year. If a fire occurred, it would likely cause $2 million in damage to the facility, which has a $10 million value. Given this scenario, what is the annualized loss expectancy (ALE)?
+Selected Answer: 	
+$20,000
+
+Beth is conducting a risk assessment. She is trying to determine the impact a security incident will have on the reputation of her company. What type of risk assessment is best suited to this type of analysis?
+Selected Answer: 	
+Qualitative
+
+Adam's company recently suffered an attack where hackers exploited an SQL injection issue on their web server and stole sensitive information from a database. What term describes this activity?
+Selected Answer: 	
+Incident
