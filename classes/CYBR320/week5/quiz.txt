@@ -1,0 +1,39 @@
+Anthony is responsible for tuning his organization's intrusion detection system. He notices that the system reports an intrusion alert each time that an administrator connects to a server using Secure Shell (SSH). What type of error is occurring?
+Selected Answer:	
+False positive error
+
+Emily is the information security director for a large company that handles sensitive personal information. She is hiring an auditor to conduct an assessment demonstrating that her firm is satisfying requirements regarding customer private data. What type of assessment should she request?
+Selected Answer:	
+SOC 3
+
+Which regulatory standard would NOT require audits of companies in the United States?
+Selected Answer:	
+Personal Information Protection and Electronic Documents Act (PIPEDA)
+
+Which intrusion detection system strategy relies upon pattern matching?
+Selected Answer:	
+Signature detection
+
+Christopher is designing a security policy for his organization. He would like to use an approach that allows a reasonable list of activities but does not allow other activities. Which permission level is he planning to use?
+Selected Answer:	
+Prudent
+
+Isaac is responsible for performing log reviews for his organization in an attempt to identify security issues. He has a massive amount of data to review. What type of tool would best assist him with this work?
+Selected Answer:	
+Security information and event management (SIEM)
+
+Curtis is conducting an audit of an identity management system. Which question is NOT likely to be in the scope of his audit?
+Selected Answer:	
+Does the firewall properly block unsolicited network connection attempts?
+
+What type of security monitoring tool would be most likely to identify an unauthorized change to a computer system?
+Selected Answer:	
+System integrity monitoring
+
+Gina is preparing to monitor network activity using packet sniffing. Which technology is most likely to interfere with this effort if used on the network?
+Selected Answer:	
+Secure Sockets Layer (SSL)
+
+What is a set of concepts and policies for managing IT infrastructure, development, and operations?
+Selected Answer:	
+IT Infrastructure Library (ITIL)

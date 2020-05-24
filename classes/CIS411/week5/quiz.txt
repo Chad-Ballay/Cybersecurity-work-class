@@ -1,0 +1,47 @@
+ The audit or assessment team should spend some time before each audit/assessment performing a _________________________ of the area or technologies to ensure what the audit or assessment will entail.
+Selected Answer:	
+b. Preliminary Survey
+
+Which of the following is not a type of internal control?
+Selected Answer:	
+c. Administrative
+
+ (T/F) The audit/assessment is complete once the audit/assessment report has been issued to the customer.
+Selected Answer:	
+False
+
+One of the first steps in ensuring an effective IT Audit planning process is to create the ______________.
+Selected Answer:	
+c. IT Audit Universe
+
+According to the textbook, in what phase does the bulk of the audit work occur?
+Selected Answer:	
+d. Fieldwork and Documentation
+
+Put the stages of an Audit in order:
+
+Answers	Selected Answer
+Fieldwork and documentation
+1. Planning
+2. Fieldwork and documentation
+3. Issue discovery and validation
+4. Solution development
+5. Report drafting and issuance
+6. Issue Tracking
+
+A good source for ensuring you have considered all significant areas of IT governance is to refer to the ________________________ framework.
+Selected Answer:	
+a. Control Objectives for Information and related Technology (COBIT)
+
+Where can you find the International Standards for the Professional Practice of Internal Auditing?
+Selected Answer:	
+b. The Institute for Internal Auditors – www.theiia.org
+
+Which of the following is not one of the three common approaches used for developing and assigning action items for addressing audit issues?
+Selected Answer:	
+a. The responsibility approach
+
+(T/F) Audit scheduling should not include collaboration with the audit customers, since they don’t need to be involved with the audit.
+
+Selected Answer:	
+False
