@@ -5,7 +5,7 @@ tmpfile=$(mktemp)
 # Read in cmd line arguments as text to decode.  Shift to uppercase
 # and then make sure there is input.
 INPUT=$*
-INPUT=${INPUT^^}
+INPUT=`echo $INPUT | tr '[:lower:]' '[:upper:]'`
 if [ ${#INPUT} -le 0 ];
 then
    echo "Input blank"; exit

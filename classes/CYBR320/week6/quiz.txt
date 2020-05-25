@@ -1,0 +1,39 @@
+Gary is sending a message to Patricia. He wants to ensure that nobody tampers with the message while it is in transit. What goal of cryptography is Gary attempting to achieve?
+Selected Answer:	
+Integrity
+
+Alice would like to send a message to Bob securely and wishes to encrypt the contents of the message. What key does she use to encrypt this message?
+Selected Answer:	
+Bob's public key
+
+What is NOT a symmetric encryption algorithm?
+Selected Answer:	
+Rivest-Shamir-Adelman (RSA)
+
+What type of function generates the unique value that corresponds to the contents of a message and is used to create a digital signature?
+Selected Answer:	
+Hash
+
+Which cryptographic attack offers cryptanalysts the most information about how an encryption algorithm works?
+Selected Answer:	
+Chosen plaintext
+
+What is the only unbreakable cipher when it is used properly?
+Selected Answer:	
+Vernam
+
+Alice would like to send a message to Bob using a digital signature. What cryptographic key does Alice use to create the digital signature?
+Selected Answer:	
+Alice's private key
+
+Which of the following allows a certificate authority (CA) to revoke a compromised digital certificate in real time?
+Selected Answer:	
+Online Certificate Status Protocol (OCSP)
+
+Alice and Bob would like to communicate with each other using a session key but they do not already have a shared secret key. Which algorithm can they use to exchange a secret key?
+Selected Answer:	
+Diffie-Hellman
+
+What mathematical problem forms the basis of most modern cryptographic algorithms?
+Selected Answer:	
+Factoring large primes
