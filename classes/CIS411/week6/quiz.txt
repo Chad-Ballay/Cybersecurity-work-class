@@ -1,0 +1,64 @@
+  The following question is from Chapter 5, Auditing Data Centers and Disaster Recovery:
+
+Which of the following is not a major threat to data centers?
+Selected Answer:	
+d. Hackers
+
+The following question is from Chapter 4, Auditing Entity-Level Controls:
+
+As part of the entity-level audit, you should ensure what is in place for measuring performance against service-level agreements (SLAs)?
+Selected Answer:	
+a. Processes and metrics
+
+The following question is from Chapter 4, Auditing Entity-Level Controls:
+
+ The auditor should ensure what are controlled with change management to avoid unnecessary system outages?
+Selected Answer:	
+d. System configuration
+
+The following question is from Chapter 5, Auditing Data Centers and Disaster Recovery:
+
+To ensure system resiliency, what should be redundant within the system?
+ 
+Selected Answer:	
+e. a & b
+Answers:	
+a. Disk arrays
+b. Power supplies
+
+The following question is from Chapter 5, Auditing Data Centers and Disaster Recovery:
+
+What control systems authenticate workers prior to providing physical entry to facilities?
+
+Selected Answer:	
+b. Facility Access
+
+The following question is from Chapter 5, Auditing Data Centers and Disaster Recovery:
+
+What plan should exist so all employees understand their role in case of an extreme emergency?
+Selected Answer:	
+c. Disaster Recovery
+
+  The following question is from Chapter 5, Auditing Data Centers and Disaster Recovery:
+
+A data center’s first and most formidable line of defense should be the ______________.
+Selected Answer:	
+a. Doors and walls
+
+The following question is from Chapter 4, Auditing Entity-Level Controls:
+
+In which one of the test steps listed in the chapter, do you look for evidence that the company maintains a list of enterprise software licenses?
+Selected Answer:	
+a. #15
+
+The following question is from Chapter 4, Auditing Entity-Level Controls:
+
+ Which of the following is not one of the test steps for auditing entity-level controls?
+Selected Answer:	
+c. Review the compensation for IT Security personnel
+
+The following question is from Chapter 4, Auditing Entity-Level Controls:
+
+The ______________ sets a baseline of expectations for employees of the company.
+Selected Answer:	
+b. IT Security Policy
