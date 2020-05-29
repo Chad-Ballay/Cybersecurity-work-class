@@ -62,3 +62,74 @@ The following question is from Chapter 4, Auditing Entity-Level Controls:
 The ______________ sets a baseline of expectations for employees of the company.
 Selected Answer:	
 b. IT Security Policy
+
+## Second quiz
+
+
+
+The following question is from Chapter 5, Auditing Routers, Switches, and Firewalls:
+
+Which layer of the OSI model routes packets between networks?
+Selected Answer: 	
+b. Network
+
+
+The following question is from Chapter 5, Auditing Routers, Switches, and Firewalls:
+
+A _______________ is an image on the router’s memory at the time of a crash. It can be very useful for a vendor in diagnosing a crash and should be saved.
+
+
+Selected Answer: 	
+d. Core dump
+
+
+The following question is from Chapter 12, Auditing WLAN and Mobile Devices:
+
+What wireless networking equipment allows supplicants to attach mobile devices to the wired network?
+Selected Answer: 	
+b. Wireless Access Point (WAP)
+
+The following question is from Chapter 5, Auditing Routers, Switches, and Firewalls :
+
+What should be disabled on all networking equipment?
+
+Selected Answer: 	
+c. Unnecessary services
+
+What solutions are designed to handle the management of smartphones created by the handset manufacturers?
+Selected Answer: 	
+c. Mobile Device Management (MDM)
+
+The following question is from Chapter 12, Auditing WLAN and Mobile Devices:
+
+Which of the following is not a common security policy item for wireless networks?
+Selected Answer: 	
+b.  Permit unlimited propagation of radio waves.
+
+The following question is from Chapter 5, Auditing Routers, Switches, and Firewalls:
+
+Network logs should be sent to a _____________ to prevent tampering.
+Selected Answer: 	
+a. Secure, centralized host
+
+
+Which layer of the OSI model conveys the bit stream - electrical impulse, light or radio signal — through the network at the electrical and mechanical level. It provides the hardware means of sending and receiving data on a carrier, including defining cables, cards and physical aspects?
+Selected Answer: 	
+
+Physical
+
+The following question is from Chapter 12, Auditing WLAN and Mobile Devices:
+
+What is a common, manual method for identifying rogue wireless networks?
+Selected Answer: 	
+c. Wireless access control
+
+
+The following question is from Chapter 5, Auditing Routers, Switches, and Firewalls:
+
+Which of the following is not a specialized type of firewall mentioned in the textbook?
+
+Selected Answer: 	
+a. Routers
+
+
