@@ -122,7 +122,7 @@ The following question is from Chapter 12, Auditing WLAN and Mobile Devices:
 
 What is a common, manual method for identifying rogue wireless networks?
 Selected Answer: 	
-c. Wireless access control
+c. Wardriving
 
 
 The following question is from Chapter 5, Auditing Routers, Switches, and Firewalls:
