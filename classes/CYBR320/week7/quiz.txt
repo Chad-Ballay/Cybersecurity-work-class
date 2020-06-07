@@ -1,0 +1,80 @@
+Karen would like to use a wireless authentication technology similar to that found in hotels where users are redirected to a webpage when they connect to the network. What technology should she deploy?
+Selected Answer:	
+Captive portal
+
+Val would like to isolate several systems belonging to the product development group from other systems on the network, without adding new hardware. What technology can she use?
+Selected Answer:	
+Virtual LAN (VLAN)
+
+What is the maximum value for any octet in an IPv4 IP address?
+Selected Answer:	
+255
+
+Barbara is investigating an attack against her network. She notices that the Internet Control Message Protocol (ICMP) echo replies coming into her network far exceed the ICMP echo requests leaving her network. What type of attack is likely taking place?
+Selected Answer:	
+Smurf
+
+Terry is troubleshooting a network that is experiencing high traffic congestion issues. Which device, if present on the network, should be replaced to alleviate these issues?
+Selected Answer:	
+Hub
+
+What protocol is responsible for assigning IP addresses to hosts on most networks?
+Selected Answer:	
+Dynamic Host Configuration Protocol (DHCP)
+
+What type of network device normally connects directly to endpoints and uses MAC-based filtering to limit traffic flows?
+Selected Answer:	
+Switch
+
+Henry is creating a firewall rule that will allow inbound mail to the organization. What TCP port must he allow through the firewall?
+Selected Answer:	
+25
+
+Henry would like to create a different firewall rule that allows encrypted web traffic to reach a web server. What port is used for that communication?
+Selected Answer:	
+443
+
+What wireless security technology contains significant flaws and should never be used?
+Selected Answer:	
+Wired Equivalent Privacy (WEP)
+
+Bob is developing a web application that depends upon a database backend. What type of attack could a malicious individual use to send commands through his web application to the database?
+Selected Answer:	
+SQL injection
+
+Gwen is investigating an attack. An intruder managed to take over the identity of a user who was legitimately logged into Gwen's company's website by manipulating Hypertext Transfer Protocol (HTTP) headers. Which type of attack likely took place?
+Selected Answer:	
+Session hijacking
+
+Larry recently viewed an auction listing on a website. As a result, his computer executed code that popped up a window that asked for his password. What type of attack has Larry likely encountered?
+Selected Answer:	
+Cross-site scripting (XSS)
+
+Breanne's system was infected by malicious code after she installed an innocent-looking solitaire game that she downloaded from the Internet. What type of malware did she likely encounter?
+Selected Answer:	
+Trojan horse
+
+What program, released in 2013, is an example of ransomware?
+Selected Answer:	
+Crypt0L0cker
+
+What ISO security standard can help guide the creation of an organization's security policy?
+Selected Answer:	
+27002
+
+Which type of virus targets computer hardware and software startup functions?
+Selected Answer:	
+System infector
+
+Adam discovers a virus on his system that is using encryption to modify itself. The virus escapes detection by signature-based antivirus software. What type of virus has he discovered?
+Selected Answer:	
+Polymorphic virus
+
+Yolanda would like to prevent attackers from using her network as a relay point for a smurf attack. What protocol should she block?
+Selected Answer:	
+Internet Control Message Protocol (ICMP)
+
+What type of system is intentionally exposed to attackers in an attempt to lure them out?
+Selected Answer:	
+Honeypot
+
