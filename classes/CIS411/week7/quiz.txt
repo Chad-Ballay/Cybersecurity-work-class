@@ -1,0 +1,137 @@
+What Unix/Linux configuration file determines where system logs and messages are stored and routed?
+
+
+Selected Answer:	
+d.   /etc/syslog.conf
+
+Match the common Unix/Linux directory with its proper description:
+Question	Selected Match
+/bin	
+a. Location of most of the system binaries
+/etc	
+b. Contains system configuration files
+/var	
+c. Contains information that programs need to track as they run
+/opt	
+d. Includes many installed add-on applications
+/home	
+e. Typical location for user home directories
+
+ Match the Windows command line tool with its description:
+Question	Selected Match
+Autoruns	
+a. List everything scheduled to start when your computer starts up.
+Secpol.msc	
+b. Opens the local computer security policy
+Netstat	
+c. Provide network information
+Pslist	
+d. List running processes
+Psinfo	
+e. List system information
+
+You’ll find the account policies as they affect your system by typing _______________ at the Windows command line?
+Selected Answer:	
+c. Rsop.msc
+
+Which of the following is not a common check completed by the Microsoft Baseline Security Analyzer (MBSA) program?
+Selected Answer:	
+b. Virus and malware detection
+
+What is the Unix/Linux command used to list and examine permissions on system files and directories?
+Selected Answer:	
+a. Ls-l
+
+What native Windows command reveals the active sockets on your computer listening for external communications?
+
+Selected Answer:	
+d. Netstat
+
+In what way(s) can you confirm whether the system is running an antivirus program?
+Selected Answer:	
+e. A & B
+Answers:	
+a.  Visual check of the system tray
+b. Run pslist rtvscan from a command line
+
+Which of the following Unix/Linux file permissions means that the file’s owner has read, write, and execute permissions on the file; the file’s group has read and execute permissions; and everyone else has read permissions?
+Selected Answer:	
+b. rwxr-xr --
+
+The typical name of the system administrator or superuser account in Unix/Linux is called?
+Selected Answer:	
+c. Root
+
+The following questions are from Chapter 7, Auditing Unix and Linux Operating Systems:
+
+What Unix/Linux command provides help information on other command line programs?
+Selected Answer:	
+a. Man
+
+What command allows the assessor to view scheduled tasks to ensure only approved ones are running?
+Selected Answer:	
+a. Schtasks
+
+
+What type of attacks allows a web client to pass data through the web server and out to another system such as a database?
+Selected Answer:	
+b. Injection
+
+(T/F) Application developers should have access to alter production data in order to ensure its uptime and functionality.
+Selected Answer:	
+False
+
+ (T/F) All employees should be given only the necessary amount of access to the system or application to perform their job.
+
+Selected Answer:	
+True
+
+OWASP stands for:
+Selected Answer:	
+b.   Open Web Application Security Project
+
+Storing data in multiple systems or databases can lead to what that results in system errors?
+Selected Answer:	
+d. Out-of-sync conditions
+
+  What backup and recovery objective dictates how quickly the system needs to be running after an incident?
+Selected Answer:	
+c. Recovery Time Objective (RTO)
+
+Which best practice explains why obfuscating or hiding unencrypted data is a weak security mechanism?
+Selected Answer:	
+b. Avoid Security through Obscurity
+
+What attack allows the web application to transport an attack from one user to another end user’s browser?
+Selected Answer:	
+d. Cross-Site scripting (XSS)
+
+Until encrypted networks become the standard, what should be eliminated where possible to help mitigate the risk of eavesdropping on network traffic?
+Selected Answer:	
+b.   Clear-text protocols such as HTTP, FTP, and Telnet
+ 
+(T /F) Never run Unix web servers such as Apache under the root (or superuser) account.
+Selected Answer:	
+True
+
+What should be disabled on the web server?
+ 
+
+Selected Answer:	
+c.   Unnecessary services
+
+You should evaluate strong software controls around ___________, which provides accountability, protects the integrity of the code, and improves application reliability.
+Selected Answer:	
+a.   Code checkout and versioning
+
+All _________ should be validated before being used by a web application?
+Selected Answer:	
+c. User input
+
+  Which of the following is not one of the three primary components of a complete web audit:
+Selected Answer:	
+a. Web firewall
+
+Which of the following is not a generalized framework used to determine possible risks associated with applications?
+Selected Answer:	
+a. Open Web Application Security Project (OWASP)
