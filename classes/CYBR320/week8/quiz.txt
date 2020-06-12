@@ -1,0 +1,39 @@
+Which technology category would NOT likely be the subject of a standard published by the International Electrotechnical Commission (IEC)?
+Selected Answer:	
+Encryption
+
+Which of the following agencies is NOT involved in the Gramm-Leach-Bliley Act (GLBA) oversight process?
+Selected Answer:	
+Federal Communications Commission (FCC)
+
+Which of the following items would generally NOT be considered personally identifiable information (PII)?
+Selected Answer:	
+Trade secret
+
+Allie is working on the development of a web browser and wants to make sure that the browser correctly implements the Hypertext Markup Language (HTML) standard. What organization's documentation should she turn to for the authoritative source of information?
+Selected Answer:	
+World Wide Web Consortium (W3C)
+
+Betty visits a local library with her young children. She notices that someone using a computer terminal in the library is visiting pornographic websites. What law requires that the library filter offensive web content for minors?
+Selected Answer:	
+Children's Internet Protection Act (CIPA)
+
+Which element is NOT a core component of the ISO 27002 standard?
+Selected Answer:	
+Cryptography
+
+What type of publication is the primary working product of the Internet Engineering Task Force (IETF)?
+Selected Answer:	
+Request for comment (RFC)
+
+What type of organizations are required to comply with the Sarbanes-Oxley (SOX) Act?
+Selected Answer:	
+Publicly traded companies
+
+What series of Special Publications does the National Institute of Standards and Technology (NIST) produce that covers information systems security activities?
+Selected Answer:	
+800
+
+Which of the following is NOT one of the rights afforded to students (or the parents of a minor student) under the Family Educational Rights and Privacy Act (FERPA)?
+Selected Answer:	
+Right to delete unwanted information from records

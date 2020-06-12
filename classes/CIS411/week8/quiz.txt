@@ -1,0 +1,39 @@
+The _____________ sits between the hardware and the operating system and presents the hardware you specify to the operating system:
+Selected Answer:	
+b. Hypervisor
+
+(T/F) Virtualized servers don’t need to be current on patching because they are protected by the virtualized environment.
+Selected Answer:	
+False
+
+Which of the following is not typically allocated as part of virtual machine capacity management?
+Selected Answer:	
+d. User accounts
+
+(T/F) Controls should exist to restrict access between virtual machines to protect any sensitive information stored or processed on the host machines.
+Selected Answer:	
+True
+ 
+According to the textbook, what means actively watching for issues (detection) and actively searching for them?
+Selected Answer:	
+b. Monitoring
+
+What is the term when IT services are provided by a third party vendor through the Internet using a shared infrastructure?
+Selected Answer:	
+b. Cloud computing
+
+  According to NIST, which is not a common characteristic of cloud computing?
+Selected Answer:	
+b.   Individual access control
+
+Which model of cloud computing do your users access the cloud provider’s applications through a thin client interface such as a web browser?
+Selected Answer:	
+c. Software as a Service (SaaS)
+
+SAS 70 reports are an auditing standard developed by which organization to assess service organizations?
+Selected Answer:	
+d. American Institute of Certified Public Accountants (AICPA)
+
+What form of legal documents specifies requirements for the vendor for availability, performance, response time, and issue resolution time?
+Selected Answer:	
+a. Service Level Agreement (SLA)
