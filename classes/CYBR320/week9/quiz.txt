@@ -1,0 +1,452 @@
+Question 1
+1 out of 1 points
+
+Which Institute of Electrical and Electronics Engineers (IEEE) standard covers wireless LANs?
+Answers:	
+802.3
+802.11
+802.16
+802.18
+Question 2
+1 out of 1 points
+
+What series of Special Publications does the National Institute of Standards and Technology (NIST) produce that covers information systems security activities?
+Answers:	
+600
+700
+800
+900
+Question 3
+1 out of 1 points
+
+Which one of the following is an example of a business-to-consumer (B2C) application of the Internet of Things (IoT)?
+Answers:	
+Virtual workplace
+Infrastructure monitoring
+Health monitoring
+Supply chain management
+Question 4
+1 out of 1 points
+
+Which one of the following principles is NOT a component of the Biba integrity model?
+Answers:	
+Subjects cannot read objects that have a lower level of integrity than the subject.
+Subjects cannot change objects that have a lower integrity level.
+Subjects at a given integrity level can call up only subjects at the same integrity
+level or lower.
+A subject may not ask for service from subjects that have a higher integrity level.
+Question 5
+1 out of 1 points
+
+Bill is conducting an analysis of a new IT service. He would like to assess it using the Open Systems Interconnection (OSI) model and would like to learn more about this framework. What organization should he turn to for the official definition of OSI?
+Answers:	
+Ocean Surveillance Information System (OSIS)
+International Organization for Standardization (ISO)
+National Institute of Standards and Technology (NIST)
+Information Systems Audit and Control Association (ISACA)
+Question 6
+1 out of 1 points
+
+Which term describes any action that could damage an asset?
+Answers:	
+Risk
+Countermeasure
+Vulnerability
+Threat
+Question 7
+1 out of 1 points
+
+Tim is implementing a set of controls designed to ensure that financial reports, records, and data are accurately maintained. What information security goal is Tim attempting to achieve?
+Answers:	
+Integrity
+Accountability
+Availability
+Confidentiality
+Question 8
+1 out of 1 points
+
+Which risk is most effectively mitigated by an upstream Internet service provider (ISP)?
+Answers:	
+Distributed denial of service (DDoS)
+Lost productivity
+Firewall configuration error
+Unauthorized remote access
+Question 9
+1 out of 1 points
+
+Which one of the following is NOT a good technique for performing authentication of an end user?
+Answers:	
+Password
+Biometric scan
+Identification number
+Token
+Question 10
+1 out of 1 points
+
+What is NOT generally a section in an audit report?
+Answers:	
+Findings
+System configurations
+Recommendations
+Timeline for Implementation
+Question 11
+1 out of 1 points
+
+What is NOT a valid encryption key length for use with the Blowfish algorithm?
+Answers:	
+32 bits
+64 bits
+256 bits
+512 bits
+Question 12
+1 out of 1 points
+
+The ___________ is the central part of a computing environment's hardware, software, and firmware that enforces access control.
+Answers:	
+security kernel
+CPU
+memory
+co-processor
+Question 13
+1 out of 1 points
+
+Ann is creating a template for the configuration of Windows servers in her organization. It includes the basic security settings that should apply to all systems. What type of document should she create?
+Answers:	
+Baseline
+Policy
+Guideline
+Procedure
+Question 14
+1 out of 1 points
+
+What type of security monitoring tool would be most likely to identify an unauthorized change to a computer system?
+Answers:	
+Network IDS
+System integrity monitoring
+CCTV
+Data loss prevention
+Question 15
+1 out of 1 points
+
+What ISO security standard can help guide the creation of an organization's security policy?
+Answers:	
+12333
+17259
+27002
+42053
+Question 16
+1 out of 1 points
+
+Tom is the IT manager for an organization that experienced a server failure that affected a single business function. What type of plan should guide the organization's recovery effort?
+Answers:	
+Disaster recovery plan (DRP)
+Business impact analysis (BIA)
+Business continuity plan (BCP)
+Service level agreement (SLA)
+Question 17
+1 out of 1 points
+
+Val would like to limit the websites that her users visit to those on an approved list of pre-cleared sites. What type of approach is Val advocating?
+Answers:	
+Blacklisting
+Context-based screening
+Packet filtering
+Whitelisting
+Question 18
+1 out of 1 points
+
+What type of publication is the primary working product of the Internet Engineering Task Force (IETF)?
+Answers:	
+Special Publication (SP)
+Request for comment (RFC)
+ISO standard
+Public service announcement (PSA)
+Question 19
+1 out of 1 points
+
+What type of organizations are required to comply with the Sarbanes-Oxley (SOX) Act?
+Answers:	
+Non-profit organizations
+Publicly traded companies
+Government agencies
+Privately held companies
+Question 20
+1 out of 1 points
+
+Nancy performs a full backup of her server every Sunday at 1 A.M. and differential backups on Mondays through Fridays at 1 A.M. Her server fails at 9 A.M. Wednesday. How many backups does Nancy need to restore?
+Answers:	
+1
+2
+3
+4
+Question 21
+1 out of 1 points
+
+Betty visits a local library with her young children. She notices that someone using a computer terminal in the library is visiting pornographic websites. What law requires that the library filter offensive web content for minors?
+Answers:	
+Children's Online Privacy Protection Act (COPPA)
+Sarbanes-Oxley Act (SOX)
+Family Educational Rights and Privacy Act (FERPA)
+Children's Internet Protection Act (CIPA)
+Question 22
+1 out of 1 points
+
+What is NOT a service commonly offered by unified threat management (UTM) devices?
+Answers:	
+URL filtering
+Wireless network access
+Malware inspection
+Content inspection
+Question 23
+1 out of 1 points
+
+What tool might be used by an attacker during the reconnaissance phase of an attack to glean information about domain registrations?
+Answers:	
+Whois
+Simple Network Management Protocol (SNMP)
+Ping
+Domain Name System (DNS)
+Question 24
+1 out of 1 points
+
+Which activity manages the baseline settings for a system or device?
+Answers:	
+Configuration control
+Reactive change management
+Proactive change management
+Change control
+Question 25
+1 out of 1 points
+
+Which element of the security policy framework offers suggestions rather than mandatory actions?
+Answers:	
+Policy
+Standard
+Guideline
+Procedure
+Question 26
+1 out of 1 points
+
+What protocol is responsible for assigning IP addresses to hosts on most networks?
+Answers:	
+Dynamic Host Configuration Protocol (DHCP)
+Transport Layer Security (TLS)
+Virtual LAN (VLAN)
+Simple Mail Transfer Protocol (SMTP)
+Question 27
+1 out of 1 points
+
+Matthew captures traffic on his network and notices connections using ports 20, 22, 23, and 80. Which port normally hosts a protocol that uses secure, encrypted connections?
+Answers:	
+20
+22
+23
+80
+Question 28
+1 out of 1 points
+
+Barry discovers that an attacker is running an access point in a building adjacent to his company. The access point is broadcasting the security set identifier (SSID) of an open network owned by the coffee shop in his lobby. Which type of attack is likely taking place?
+Answers:	
+Evil twin
+Wardriving
+Bluesnarfing
+Replay attack
+Question 29
+1 out of 1 points
+
+Allie is working on the development of a web browser and wants to make sure that the browser correctly implements the Hypertext Markup Language (HTML) standard. What organization's documentation should she turn to for the authoritative source of information?
+Answers:	
+International Electrotechnical Commission (IEC)
+National Institute of Standards and Technology (NIST)
+World Wide Web Consortium (W3C)
+Internet Engineering Task Force (IETF)
+Question 30
+1 out of 1 points
+
+What is a set of concepts and policies for managing IT infrastructure, development, and operations?
+Answers:	
+ISO 27002
+Control Objectives for Information and related Technology (COBIT)
+IT Infrastructure Library (ITIL)
+NIST Cybersecurity Framework (CSF)
+Question 31
+1 out of 1 points
+
+What type of system is intentionally exposed to attackers in an attempt to lure them out?
+Answers:	
+Honeypot
+Bastion host
+Web server
+Database server
+Question 32
+1 out of 1 points
+
+What wireless security technology contains significant flaws and should never be used?
+Answers:	
+Wired Equivalent Privacy (WEP)
+Wi-Fi Protected Access (WPA)
+WPA2
+Remote Authentication Dial-In User Service (RADIUS)
+Question 33
+1 out of 1 points
+
+George is the risk manager for a U.S. federal government agency. He is conducting a risk assessment for that agency's IT risk. What methodology is best suited for George's use?
+Answers:	
+Risk Management Guide for Information Technology Systems (NIST SP800-30)
+CCTA Risk Analysis and Management Method (CRAMM)
+Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)
+ISO/IEC 27005, “Information Security Risk Management”
+Question 34
+1 out of 1 points
+
+Beth is conducting a risk assessment. She is trying to determine the impact a security incident will have on the reputation of her company. What type of risk assessment is best suited to this type of analysis?
+Answers:	
+Quantitative
+Financial
+Qualitative
+Objective
+Question 35
+1 out of 1 points
+
+Henry is creating a firewall rule that will allow inbound mail to the organization. What TCP port must he allow through the firewall?
+Answers:	
+22
+25
+53
+80
+Question 36
+1 out of 1 points
+
+Bob received a message from Alice that contains a digital signature. What cryptographic key does Bob use to verify the digital signature?
+Answers:	
+Alice's public key
+Alice's private key
+Bob's public key
+Bob's private key
+Question 37
+1 out of 1 points
+
+Gina is preparing to monitor network activity using packet sniffing. Which technology is most likely to interfere with this effort if used on the network?
+Answers:	
+Transmission Control Protocol/Internet Protocol (TCP/IP)
+Secure Sockets Layer (SSL)
+Domain Name System (DNS)
+Dynamic Host Configuration Protocol (DHCP)
+Question 38
+1 out of 1 points
+
+Which tool can capture the packets transmitted between systems over a network?
+Answers:	
+Wardialer
+OS fingerprinter
+Port scanner
+Protocol analyzer
+Question 39
+1 out of 1 points
+
+Earl is preparing a risk register for his organization's risk management program. Which data element is LEAST likely to be included in a risk register?
+Answers:	
+Description of the risk
+Expected impact
+Risk survey results
+Mitigation steps
+Question 40
+1 out of 1 points
+
+What federal agency is charged with the mission of promoting "U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology in ways that enhance economic security and improve our quality of life?"
+Answers:	
+National Institute of Standards and Technology (NIST)
+Federal Communications Commission (FCC)
+Federal Trade Commission (FTC)
+National Aeronautics and Space Administration (NASA)
+Question 41
+0 out of 1 points
+
+Which of the following allows a certificate authority (CA) to revoke a compromised digital certificate in real time?
+Answers:	
+Certificate revocation list (CRL)
+International Data Encryption Algorithm (IDEA)
+Transport Layer Security (TLS)
+Online Certificate Status Protocol (OCSP)
+Question 42
+1 out of 1 points
+
+Mark is considering outsourcing security functions to a third-party service provider. What benefit is he most likely to achieve?
+Answers:	
+Reduced operating costs
+Access to a high level of expertise
+Developing in-house talent
+Building internal knowledge
+Question 43
+1 out of 1 points
+
+What mathematical problem forms the basis of most modern cryptographic algorithms?
+Answers:	
+Factoring large primes
+Traveling salesman problem
+Quantum mechanics
+Birthday problem
+Question 44
+1 out of 1 points
+
+Which of the following items would generally NOT be considered personally identifiable information (PII)?
+Answers:	
+Name
+Driver's license number
+Trade secret
+Social Security number
+Question 45
+1 out of 1 points
+
+Gary is troubleshooting a security issue on an Ethernet network and would like to look at the Ethernet standard. What publication should he seek out?
+Answers:	
+NIST 800-53
+IEEE 802.3
+ANSI x.1199
+ISO 17799
+Question 46
+1 out of 1 points
+
+What is a key principle of risk management programs?
+Answers:	
+Security controls should be protected through the obscurity of their mechanisms.
+Don't spend more to protect an asset than it is worth.
+Apply controls in ascending order of risk.
+Risk avoidance is superior to risk mitigation.
+Question 47
+1 out of 1 points
+
+Which organization promotes technology issues as an agency of the United Nations?
+Answers:	
+International Telecommunication Union (ITU)
+Institute of Electrical and Electronics Engineers (IEEE)
+American National Standards Institute (ANSI)
+Internet Assigned Numbers Authority (IANA)
+Question 48
+1 out of 1 points
+
+Erin is a system administrator for a federal government agency. What law contains guidance on how she may operate a federal information system?
+Answers:	
+Family Educational Rights and Privacy Act (FERPA)
+Federal Information Security Management Act (FISMA)
+Gramm-Leach-Bliley Act (GLBA)
+Sarbanes-Oxley (SOX) Act
+Question 49
+1 out of 1 points
+
+In which type of attack does the attacker attempt to take over an existing connection between two systems?
+Answers:	
+Man-in-the-middle attack
+URL hijacking
+Session hijacking
+Typosquatting
+Question 50
+1 out of 1 points
+
+Tomahawk Industries develops weapons control systems for the military. The company designed a system that requires two different officers to enter their access codes before allowing the system to engage. Which principle of security is this following?
+Answers:	
+Least privilege
+Security through obscurity
+Need to know
+Separation of duties
+
