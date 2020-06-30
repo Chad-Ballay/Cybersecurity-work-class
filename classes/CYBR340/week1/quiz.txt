@@ -1,0 +1,109 @@
+What OS began as project in 1991?
+
+Selected Answer:	
+Linux
+
+These two men contributed to the creation of the UNIX operating system at AT&T Bell Labs.
+
+Selected Answer:	
+Dennis Ritchie and Ken Thompson
+
+This OS predates microcomputers, and today runs on a wide variety of platforms.
+
+Selected Answer:	
+UNIX
+
+A computer that provides services to other computers over a network is a client. (T/F)
+
+Selected Answer:	
+False
+
+This OS was introduced in 2001 and was still the prevalent Windows version on desktops in 2009 when Microsoft discontinued sales.
+
+Selected Answer:	
+Windows XP
+
+Without this feature of modern desktop OSs, you would not be able to open a new application after your operating system and currently opened applications and data filled the entire physical RAM.
+
+Selected Answer:	
+virtual memory
+
+Which of the following is the most secure Windows file system?
+
+Selected Answer:	
+NTFS
+
+Which OS has a global community in which the users and developers can contribute modifications and enhancements to the OS?
+
+Selected Answer:	
+Linux
+
+When did Apple introduce the MAC OS System that prevailed until Mac OS X?
+
+Selected Answer:	
+1984
+
+What version of Windows shows promise of finally replacing Windows 7 on corporate desktops?
+
+Selected Answer:	
+Windows 10
+
+This term describes a fraudulent method of obtaining personal financial information through Web page pop-us, e-mail, and letters mailed via the postal service.
+
+Selected Answer:	
+Correct 
+phishing
+
+This type of malware replicates itself on a computer or throughout a network.
+
+Selected Answer:	
+Correct 
+worm
+
+This form of malware is spyware that collects information about the user in order to display targeted advertisements to the user.
+
+Selected Answer:	
+Correct 
+adware
+
+This software or hardware device examines network traffic, accepting or rejecting traffic based on predefined rules.
+
+Selected Answer:	
+Correct 
+firewall
+
+This is the oldest mode of malware infection.
+
+Selected Answer:	
+Correct 
+sneakernet
+
+Also called an application-layer gateway, this software will watch for application-specific traffic, acting as a stand-in for internal computers.
+
+Selected Answer:	
+Correct 
+proxy service
+
+This term describes a group of networked computers infected with programs that forward information to other computers.
+
+Selected Answer:	
+Correct 
+botnet
+
+You attempt to install software in Windows; and although you are logged on with a computer administrator type of account, your screen turns grey and you receive a message asking if you want to allow the program to make changes to the computer. What Windows feature is at work here?
+
+Selected Answer:	
+Correct 
+UAC
+
+Once installed, this type of malware becomes a vector giving other malware administrative access to a computer.
+
+Selected Answer:	
+Correct 
+rootkit
+
+A password cracker that tries a huge number of permutations of possible passwords is called a/an ____________ password cracker.
+
+Selected Answer:	
+Correct 
+brute-force
