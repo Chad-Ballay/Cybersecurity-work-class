@@ -1,0 +1,27 @@
+The extent of potential damage is defined as
+What type of attacks allows a web client to pass data through the web server and out to another system such as a database?
+Which of the following is not considered system-related information:
+Which layer of the OSI model routes packets between networks?
+The typical name of the system administrator or superuser account in Unix/Linux is called?
+The most commonly identified component of HIPAA is a body of sensitive data commonly known as:
+Network logs should be sent to a _____________ to prevent tampering.
+The ______________ sets a baseline of expectations for employees of the company.
+  _________ are the policies and procedures that help to ensure that management directives are followed.
+One of the first steps in ensuring an effective IT Audit planning process is to create the ______________.
+What form of legal documents specifies requirements for the vendor for availability, performance, response time, and issue resolution time?
+  Which best practice explains why obfuscating or hiding unencrypted data is a weak security mechanism?
+A data center's first and most formidable line of defense should be the ______________.
+What should be disabled on all networking equipment?
+What attack allows the web application to transport an attack from one user to another end user's browser?   What is the term when IT services are provided by a third party vendor through the Internet using a shared infrastructure?
+What term refers to grabbing information that a network service broadcasts about itself?
+The _____________ sits between the hardware and the operating system and presents the hardware you specify to the operating system:
+What native Windows command reveals the active sockets on your computer listening for external communications? The auditor should ensure what are controlled with change management to avoid unnecessary system outages?
+The audit or assessment team should spend some time before each audit/assessment performing a _________________________ of the area or technologies to ensure what the audit or assessment will entail.
+  A good source for ensuring you have considered all significant areas of IT governance is to refer to the ________________________ framework.
+Which of the following is not a common check completed by the Microsoft Baseline Security Analyzer (MBSA) program?
+In 2002, the U.S. Government responded to the rash of notorious corporate scandals by enacting which act?   
+What tools are used to search for the presence of vulnerabilities on Internet sites including default accounts, directory traversal attacks, and form validation errors? 
+Inadequate _________________________ are amongst the most serious vulnerabilities because they can jeopardize virtually all assets. 
+Which of the following is not a good source for gathering asset data: What Unix/Linux command provides help information on other command line programs? 
+What wireless networking equipment allows supplicants to attach mobile devices to the wired network? 
+What backup and recovery objective dictates how quickly the system needs to be running after an incident?
