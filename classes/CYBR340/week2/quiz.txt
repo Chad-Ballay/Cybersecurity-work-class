@@ -1,0 +1,49 @@
+Which of the following best describes DOS?
+
+Selected Answer:	
+single-user/single-tasking
+
+Which of the following Linux commands is used to change the permissions on a file?
+
+Selected Answer:	
+chmod
+
+Which of the below powershell commands does the same as the linux 'man' command?
+
+Selected Answer:	
+Get-Help
+
+The powershell command Get-Process will list running processes in Windows.  What command does the same thing in linux?
+
+Selected Answer:	
+ps
+
+When typing a path at the DOS prompt, what symbol do you use to separate directory names from other directory names or file names?
+
+Selected Answer:	
+\
+
+Linux commands are case sensitive.
+
+Selected Answer:	
+True
+
+A program that performs handy tasks, such as computer management functions or diagnostics is often called a/an ____________.
+
+Selected Answer:	
+utility
+
+In Windows, what do you type to start a DOS command window?
+
+Selected Answer:	
+cmd
+
+In DOS, powershell, and linux, the asterisk (*) and the question mark (?) are wildcard characters. (T/F)
+
+Selected Answer:	
+True
+
+Which of the following file extensions is not used for a DOS executable file?
+
+Selected Answer:	
+TXT
