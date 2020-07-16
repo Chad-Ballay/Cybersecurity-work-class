@@ -1,0 +1,69 @@
+Microsoft uses this to show that they have certified a driver for use in Windows.
+
+Selected Answer:	
+driver signing
+
+Which of the following has an option to show you all the installed updates in Windows 7?
+
+Selected Answer:	
+Control Panel | Programs and Features
+
+Security implemented solely on a desktop or laptop computer is local security.
+
+Selected Answer:	
+True
+
+In what folder does Windows store 32-bit programs?
+
+Selected Answer:	
+Program Files (x86)
+
+By default, both the Guest account and the Administrator accounts are enabled and password protected.
+
+Selected Answer:	
+False
+
+Which of the following is the Windows GUI tool for file management?
+
+Selected Answer:	
+Windows Explorer
+
+Only when logging on with an account that is a member of the Administrator's group can you do this.
+
+Selected Answer:	
+Open the User Accounts applet.
+
+Which of the following terms properly describes an exact copy of an entire hard drive contents, including the OS and all installed software that can be copied onto a hard drive?
+
+Selected Answer:	
+image
+
+Each folder and file on an NTFS volume has an associated table of users and/or groups and their permissions. What is this table called?
+
+Selected Answer:	
+Access Control List (ACL)
+
+BitLocker is available in Windows 10 Home.
+
+Selected Answer:	
+False
+
+This configuration of Windows XP is supported until April 2014.
+
+Selected Answer:	
+Windows XP with Service Pack 3
+
+When a user connects to a share over a network, which permissions are applied first?
+
+Selected Answer:	
+Share
+
+Permissions assigned at a higher level in a folder hierarchy pass down to the files and folders within that folder as this type of permission.
+
+Selected Answer:	
+inherited
+
+Which of the following file systems is compatible with both Windows and Mac OS X?
+
+Selected Answer:	
+FAT32
