@@ -1,0 +1,49 @@
+What event log severity level includes entries always indicating an unrecoverable problem?
+
+Selected Answer:	
+Critical
+
+What will occur if you attempt to install a device driver in Windows 7 when you are logged on as a standard (non-admin) user?
+
+Selected Answer:	
+You will need to respond to a UAC Credentials prompt.
+
+Which one of the following is used to kill tasks running on a Windows machine?
+
+Selected Answer:	
+Task Manager
+
+Windows creates this database of configuration settings during installation.
+
+Selected Answer:	
+registry
+
+Microsoft uses this technique to indicate that a device driver has passed Microsoft's test for compatibility.
+
+Selected Answer:	
+driver signing
+
+What is the shortcut key used to open the Windows Task Manager?
+
+Selected Answer:	
+Ctrl-Shift-Esc
+
+When troubleshooting Windows startup problems use this utility to modify and test startup configuration settings.
+
+Selected Answer:	
+MSCONFIG
+
+During these two phases of startup, the hardware "wakes up" and BIOS searches for an operating system.
+
+Selected Answer:	
+power-on self-test and initial startup
+
+Which Advanced Boot Options menu choice will start Windows normally and select the settings that existed at the last successful user logon?
+
+Selected Answer:	
+Last Known Good Configuration
+
+Use this feature of Device Manager when an updated device driver causes problems.
+
+Selected Answer:	
+Roll Back Driver
