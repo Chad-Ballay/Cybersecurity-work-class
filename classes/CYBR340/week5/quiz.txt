@@ -1,0 +1,60 @@
+This is the generic term for the user interface to an OS that accepts commands and displays error messages and other screen output.
+
+Selected Answer:	
+B. 
+shell
+
+Which of the following choices will give you a clean installation of Ubuntu Linux?
+
+Selected Answer:	
+A. 
+Erase and use the entire disk
+
+At the Linux command shell, when an ordinary user is logged in the prompt ends with which of the following characters?
+
+
+Selected Answer:	
+A. 
+$
+
+Which of the following would you enter at the Linux command line to shut down Linux immediately and to halt (power off) the computer.
+
+Selected Answer:	
+B. 
+shutdown −h now
+
+Everything is Linux is a ____________.
+
+Selected Answer:	
+C. 
+file
+
+This is the one place in Linux where an ordinary user has full control.
+
+Selected Answer:	
+C. 
+home directory
+
+This default Linux directory contains settings and configuration data.
+
+Selected Answer:	
+A. 
+/etc
+
+Use this shell command to modify file permissions.
+
+Selected Answer:	
+C. 
+chmod
+
+Which command will change to the current user's home directory, regardless of the current directory?
+
+Selected Answer:	
+A. 
+cd ~
+
+This Ubuntu Linux shell command temporarily gives the currently logged on user root account privileges for administrative tasks.
+
+Selected Answer:	
+B. 
+sudo
