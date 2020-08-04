@@ -1,0 +1,59 @@
+You can quickly launch programs that have an icon sitting on this GUI object on the Mac OS X desktop.
+
+Selected Answer:	
+C. 
+Dock
+
+This is the main file management tool in the Mac OS X desktop.
+
+Selected Answer:	
+A. 
+Finder
+
+The first time you power on a new Mac this program automatically runs.
+
+Selected Answer:	
+C. 
+Mac OS X Setup Assistant
+
+How can you quickly open an extensive list of installed hardware and software in Mac OS X?
+
+Selected Answer:	
+C. 
+Apple menu | About This Mac | More Info
+
+From this menu you can shut down your computer, access configuration settings, update software, put your Mac to sleep, restart, log out, access recent items, and learn about your Mac.
+
+Selected Answer:	
+B. 
+Apple Menu
+
+Launch this from the Utilities folder and work at Mac OS X's BASH shell, complete with the $ prompt.
+
+Selected Answer:	
+B. 
+Terminal
+
+Where can you configure the Mac OS X Firewall settings?
+
+Selected Answer:	
+A. 
+Security preferences pane
+
+What OS X feature would you turn on to encrypt your home folder?
+
+Selected Answer:	
+B. 
+FireVault
+
+This type of Mac OS X user account can change all system preference settings and install software in the main application and library folders. It can also create, modify, and delete user accounts. What type of account is this?
+
+Selected Answer:	
+A. 
+administrator
+
+If you work with data that you must protect from snooping, turn this feature on so that clever hackers cannot access the swap file in an effort to read confidential data.
+
+Selected Answer:	
+D. 
+Secure Virtual Memory 
