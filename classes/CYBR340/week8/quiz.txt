@@ -1,0 +1,59 @@
+What version of Internet Protocol (IP) is this address: 2002:470:B8F9:1:20C:29FF:FE53:45CA?
+
+Selected Answer:	
+A. 
+IPv6
+
+Which of these choices is the correct command for viewing all your network connections and their configurations in a Windows command prompt?
+
+Selected Answer:	
+B. 
+ipconfig /all
+
+Which of these choices is the correct command for viewing all your network connections and their configuration in a Linux BASH or Mac OS X terminal window?
+
+Selected Answer:	
+A. 
+ifconfig -a
+
+Most methods for connecting a desktop computer to the Internet involve a cabled connection between the computer's ____________ network adapter and a LAN.
+
+Selected Answer:	
+C. 
+Ethernet
+
+This protocol will allow users to maintain messages stored on an e-mail server without removing them from the server.
+
+Selected Answer:	
+B. 
+IMAP
+
+For both Firefox and IE, you access most settings for security and privacy in this menu.
+
+Selected Answer:	
+D. 
+Tools
+
+This feature of Windows 7 is an easy-to configure implementation of Microsoft file and print sharing designed for users on a very small network with all Windows 7 computers.
+
+Selected Answer:	
+B. 
+Home Group
+
+Test the ability to communicate with another host over a TCP/IP network with this simple utility that sends a small request to an IP address simply asking for a response.
+
+Selected Answer:	
+C. 
+PING
+
+IPv6 addresses are all ____________ in size.
+
+Selected Answer:	
+C. 
+128 bits
+
+What single NTFS permission allows users to read and write data, but not alter permissions or delete files?
+
+Selected Answer:	
+A. 
+Write
