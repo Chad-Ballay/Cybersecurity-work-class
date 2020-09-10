@@ -1,0 +1,79 @@
+____ refers to the efforts taken through policy, procedure, and design in order to create and maintain reliable, consistent, and complete information and systems.
+Selected Answer:	
+Integrity
+
+A(n) ____ is a small program that enables users to automate a large number of repeated processes within a document.
+Selected Answer:	
+macro
+
+____ are normally replacements for older versions of software or firmware; they normally need to be purchased.
+Selected Answer:	
+Upgrades
+
+HIPAA laws ensure the security and privacy of patient records by dictating the way files are accessed, stored, and transmitted on a network.
+Selected Answer:	
+True
+
+The term ____ refers to those individuals who break into our networks without authorization with the hope of destroying and/or stealing information.
+Selected Answer:	
+cracker
+
+____ refers to the efforts taken through policy, procedure, and design to maintain the accessibility of resources on a network or within a database.
+Selected Answer:	
+Availability
+
+Often, software or firmware vendors will combine a number of patches to create a new version of the software, called a software upgrade.
+Selected Answer:	
+True
+
+A ____ Uniform Resource Locator (URL) is used to fool a user into believing that the site is a legitimate or well-known site, such as Yahoo! or Google.
+Selected Answer:	
+spoofed
+
+____ use human interaction to manipulate people into gaining access to systems, unauthorized areas, and confidential information.
+Selected Answer:	
+Social engineers
+
+____ are documents containing a specific programming language, such as HyperText Markup Language (HTML) or JAVA, etc., that are designed to be viewable on the World Wide Web.
+Selected Answer:	
+Web pages
+
+The term ____ refers to those who have mastered the firmware and software of modern computer systems, and enjoy the exploration and analysis of network security with no intent to intrude or cause harm.
+Selected Answer:	
+hacker
+
+____ are responsible for the theft and destruction that affect our systems.
+Selected Answer:	
+Black hats
+
+A virus that installs itself or takes residence directly in the main system memory of a computer is known as a ____ virus.
+Selected Answer:	
+resident
+
+A(n) ____ management plan is a process developed to ensure the safety of the data on a network.
+Selected Answer:	
+backup
+
+Computer security is a set of established procedures, standards, policies, and tools that are used to protect a network from theft, misuse, and unwanted intrusions, activities, and attacks.
+Selected Answer:	
+False
+
+Computer-literate users are not likely to cause problems to a network.
+Selected Answer:	
+False
+
+The ____ holds a database of domain names and their respective IP addresses.
+Selected Answer:	
+DNS
+
+____ refers to the efforts taken through policy, procedure, and design in order to create and maintain the privacy and discretion of information and systems.
+Selected Answer:	
+Confidentiality
+
+A warm site is an exact replica of an organization’s network, in other words, a mirror site.
+Selected Answer:	
+False
+
+Viruses that do not become active until predetermined specific conditions are met are known as ____ bombs.
+Selected Answer:	
+logic
