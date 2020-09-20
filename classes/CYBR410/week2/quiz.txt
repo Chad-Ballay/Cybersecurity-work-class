@@ -1,0 +1,79 @@
+A column is also known as a record.
+Selected Answer:	
+False
+
+A ____ database is a storage model in which common entities are stored within separate tables that use unique key identifiers to build relationships among these entities.
+Selected Answer:	
+relational
+
+The ____ file contains the location and important credentialing information of other files, and is critical to the functionality of the database.
+Selected Answer:	
+control
+
+____ is the process of saving a duplicate of requested data to another area of a system in hopes of saving resources and speeding up the future requests for that same data.
+Selected Answer:	
+Caching
+
+The ____ relationship is the ideal type of relationship within a relational database schema.
+Selected Answer:	
+one-to-many
+
+____ is the process of locating the quickest and most efficient way to retrieve the data requested by the user.
+Selected Answer:	
+Optimization
+
+A row is the component of a table that maintains a general category of information with similar datatypes.
+Selected Answer:	
+False
+
+The relational database model is a treelike structure that stores information in the form of a hierarchy, using tiers and parent-child-like entities to represent relationships.
+Selected Answer:	
+False
+
+The use of threads enables several different tasks to be performed simultaneously with minimal resource consumption.
+Selected Answer:	
+True
+
+A row is often referred to as a ____.
+Selected Answer:	
+record
+
+A(n) ____ key is a field within a table that contains a label that is used to build a relationship between two tables.
+Selected Answer:	
+foreign
+
+The ____ database structure is a treelike storage schema that represents records and relationships through the use of tiers and parent-to-child relationships.
+Selected Answer:	
+hierarchical
+
+A(n) ____ is an application that allows others to search stored data in order to locate specific information.
+Selected Answer:	
+DBMS
+
+A ____ field is a field with values that contains nonunique data and that can refer to several records at one time.
+Selected Answer:	
+secondary
+
+A(n) ____ key is a field with values that are used to sequence data.
+Selected Answer:	
+control
+
+A(n) ____ key is a field with values that are not chosen as a primary key, but can be used in cases where the primary key is not available.
+Selected Answer:	
+alternate
+
+A ____ is a single field or group of fields used to identify an entry in a table.
+Selected Answer:	
+key
+
+____ consistency refers to the accuracy and reliability of data within a database.
+Selected Answer:	
+Read
+
+A(n) ____ is a characteristic or variable that describes or further identifies an entity.
+Selected Answer:	
+attribute
+
+A ____ is one of the most basic units of storage within a database, typically representing unique and specific data objects.
+Selected Answer:	
+table
