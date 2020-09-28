@@ -1,0 +1,79 @@
+MySQL provides administrators with the tools to define allowed access based on ____.
+Selected Answer:	
+IP addresses
+
+A ____ file is a file that contains code that can be read by machines and run as an executable file.
+Selected Answer:	
+binary
+
+Opening ____ in your firewall provides all computers access to MySQL through your firewall.
+Selected Answer:	
+ports
+
+By default, MySQL is encrypted.
+Selected Answer:	
+False
+
+After installation, MySQL must be ____.
+Selected Answer:	
+configured
+
+A ____ database is for general-purpose use and will enable both InnoDb and MyISAM storage engines to be available simultaneously.
+Selected Answer:	
+multifunctional
+
+The ____ for installing MySQL on Windows is ideal for almost any environment because it allows for a lighter installation of MySQL.
+Selected Answer:	
+Essentials Package
+
+MySQL is an open-source application.
+Selected Answer:	
+True
+
+Root access should be given to outside remote machines.
+Selected Answer:	
+False
+
+____ accounts do not require credentials, providing easy access into the database infrastructure.
+Selected Answer:	
+Anonymous
+
+The ____ Edition of MySQL provides additional assistance for monitoring and analyzing the performance of your database server.
+Selected Answer:	
+Enterprise
+
+The ____ user has full privileges on a MySQL server.
+Selected Answer:	
+root
+
+The initial step in installing MySQL on UNIX-based operating systems is to create users and ____.
+Selected Answer:	
+groups
+
+____ refers to the act of converting source code that is written in one language into a different programming language or machine language.
+Selected Answer:	
+Compiling
+
+A ____ language is a type of synthetic language developed with specific syntax and semantic rules that allow individuals to create statements or functions to interface and control the behavior or functionality of a machine.
+Selected Answer:	
+programming
+
+The ____ requires manual installation and configuration, making this package the most difficult to apply.
+Selected Answer:	
+Noinstall Archive
+
+A ____ database is only used for simple Web applications and monitoring capabilities. InnoDB is disabled with this option and all resources are allocated to the MyISAM.
+Selected Answer:	
+non-transactional
+
+MySQL is licensed under the ____.
+Selected Answer:	
+General Public License (GPL)
+
+MySQL provides great power and control over user privileges.
+Selected Answer:	
+True
+
+____ usually refers to the main code that makes up an application.
+Selected Answer:	
+Source code
