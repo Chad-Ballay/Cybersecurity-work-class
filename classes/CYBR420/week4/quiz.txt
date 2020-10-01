@@ -1,0 +1,50 @@
+
+Failure of parties in a lawsuit in their duty to preserve evidence can lead to this.
+
+Selected Answer:	
+spoilage
+
+An individaul maintains his/her Fourth Amendment protections when an e-mail is being transmitted.
+
+Selected Answer:	
+True
+
+Which of the following is not considered an exigent circumstance?
+
+Selected Answer:	
+the suspect is not at or near his/her computer system
+
+All employees in the US possess a reasonable expectation of privacy on their work computers.
+
+Selected Answer:	
+False
+
+According to the Stored Communications Act (SCA), this is "any service which provides to users thereof the ability to send or receive wire or electronic communications."
+
+Selected Answer:	
+Electronic Communication Service (ECS)
+
+This is a way to test a large collection of ESI for the existence or frequency of relevant information.
+
+Selected Answer:	
+data sampling
+
+Information than an individaul knowingly exposes to others is not protected by the Fourth Amendment.
+
+Selected Answer:	
+True
+
+Private organizations must obtain a search warrant prior to seizing their employees work computers as evidence.
+
+Selected Answer:	
+False
+
+This Act bans a third party from intercepting and/or disclosing electronic communication without prior authorization.
+
+Selected Answer:	
+Electronic Communications Privacy Act (ECPA)
+
+The process of collecting, preparing, reviewing, and producing electronically stored information (ESI) in the context of the legal process is known as:
+
+Selected Answer:	
+eDiscovery
