@@ -1,0 +1,79 @@
+On the ____ page window, you will find the launch tools to begin stand-alone installation, to start a failover cluster installation, and to add a node for failover cluster installations.
+Selected Answer:	
+installation
+
+The ____ Services tool joins together and normalizes data from different sources.
+Selected Answer:	
+Integrated
+
+On the ____ page window, you will find various maintenance options available to upgrade, repair, and remove features from SQL.
+Selected Answer:	
+maintenance
+
+SQL Server data is stored, retrieved, and manipulated within a ____ architecture.
+Selected Answer:	
+client-server
+
+The ____ Services is a tool that provides different ways for presenting and delivering data in Microsoft SQL Server 2008.
+Selected Answer:	
+Reporting
+
+Attempting to run SQL Server on a machine with the minimum hardware requirements available will result in poor performance and unpredictable functionality.
+Selected Answer:	
+True
+
+____ is a free, lightweight version of SQL Server 2008 that is recommended for personal and individual use.
+Selected Answer:	
+SQL Server Express Edition
+
+The ____ tool is a wizard that is used to prepare SQL Server failover cluster installation.
+Selected Answer:	
+Advanced Cluster Preparation
+
+To improve security, servers should be placed behind ____.
+Selected Answer:	
+firewalls
+
+____ data encryption enables the encryption of the database and backups without affecting the user.
+Selected Answer:	
+Transparent
+
+The ____ of a database is the process of sharing recent changes made to a database with all other network databases in hopes of remaining consistent and in sync with one another.
+Selected Answer:	
+replication
+
+____ is a free edition of SQL Server that is created for mobile devices and for mobile application developers.
+Selected Answer:	
+Compact 3.5
+
+When a 32-bit version of SQL is placed on a 64-bit operating system, the platform is forced to run the database server in ____-bit mode.
+Selected Answer:	
+32
+
+____ management tools represent the fundamental tools available with an installation of Microsoft Server 2008.
+Selected Answer:	
+Server
+
+When choosing an appropriate operating system, you first must decide on either a ____-bit or a ____-bit platform.
+Selected Answer:	
+32, 64
+
+____ are a great way to ask questions and share ideas with other users and Microsoft SQL Professionals online.
+Selected Answer:	
+Forums
+
+The ____ tool is a wizard that is used to create a failover cluster from existing cluster instances.
+Selected Answer:	
+Advanced Cluster Preparation
+
+Choose servers for your SQL Server installation that use a(n) ____ file system.
+Selected Answer:	
+NTFS
+
+The ____ Reporting window specifies the information that you want to send to Microsoft that will help improve SQL Server.
+Selected Answer:	
+Error and Usage
+
+It is recommended that you choose Windows Authentication for installation.
+Selected Answer:	
+True
