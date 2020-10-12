@@ -1,0 +1,106 @@
+To meet the growing demand for forensics labs, the FBI started the following program:
+
+Selected Answer:	
+Regional Computer Forensics Laboratory (RCFL)
+
+One of the best solutions for storing evidence is a:
+
+Selected Answer:	
+data safe.
+
+The National Institute of Standards and Technology (NIST) launched this to establish a "methodology for testing computer forensics software tools by development of general tool specifications, test procedures, test criteria, test sets, and test hardware."
+
+Selected Answer:	
+Computer Forensic Tool Testing (CFTT) Project
+
+What are some of the test criteria of a Hardware Write Blocking device (HWB)?
+
+Selected Answer:	
+Here are the requirements as laid out in the specification.
+
+HWB-RM-01 A HWB shall not, after receiving an operation of any category from the host nor at any time during its operation, transmit any modifying category operation to a protected storage device.
+HWB-RM-02 A HWB, after receiving a read category operation from the host, shall return the data requested by the read operation.
+HWB-RM-03 A HWB, after receiving an information category operation from the host, shall return a response to the host that shall not modify any access-significant information contained in the response.
+HWB-RM-04 Any error condition reported by the storage device to the HWB shall be reported to the host.
+So any test that challenges or confirms the target devices adherence to these requirements is fair game.  Ideally the primary test would be attempting CRUD operations as per the standard functions for that OS.  Create, Read, Update, Delete.
+
+List the minimum core competencies established by the Scientific Working Group on Digital Forensic Evidence (SWGDE) that any digital forensic certification must address?
+
+Selected Answer:	
+Book makes a clear call out that certification applies to the examiners while accrediation is for the labatory.   
+
+Spelled out here in their publication.
+
+Pre-examination procedures and legal issues.
+Media assessment and analysis.
+Data recovery.
+Specific analysis of recovered data.
+Documentation and Reporting.
+Presentation of findings.
+
+Which is not a component or application associated with AccessData's Forensic Tool Kit (FTK)?
+
+Selected Answer:	
+Cloud Processing Facility
+
+Digital forensic exams require a lot of computing power.  List components that would make up a good examination machine.
+
+Selected Answer:	
+An amazing network connection to the cloud.  Much focus may be on the local machine's system specs but realistically the elasticity of the cloud is going to make it more of the solution for scalable resources.  But that's a bit fuzzy for this question.
+
+A really rock solid power supply.  More CPU/DISK/RAM is always good but the first rule has got to be minimize unexpected events.  We don't want our machine to fry the hardware we are connecting to it.  We don't want to have hours/days of processing to be lost due to a voltage dip causing the system to lock up.  
+
+List items that are typically recorded in the examiner's notes.
+
+Selected Answer:	
+The examiner's notes very likely will end up as an artifact of the legal case.  It really must be able to withstand scrutiny and to be as unambigous as possible..
+
+Details of people involved and their roles of the investigation. 
+A standard taxonomy to link efforts to this one case for future review.  
+Facts around when an item was received, reviewed, acted upon, etc...
+Details on the equipment and setup used to perform the steps so that others can recreate and validate the findings for themselves.
+etc, etc...
+
+All in all, the document should leave no questions as to the suppositions it brings forth.  If there are any questions it should provide the reader with the information needed to validate and recreate the setup.
+
+What is the preeminent authority for accredited crime labs in the United States?
+
+Selected Answer:	
+American Society of Crime Lab Directors / Laboratory Accreditation Board (ASCLD/LAB)
+
+Correctly match the type of Quality Assurance proficiency test with its description.
+
+Question	Selected Match
+Open Test
+
+A. 
+The analyst(s) are aware they are being tested.
+
+Blind Test
+
+D. 
+The analyst(s) are not aware they are being tested.
+
+Internal Test
+
+B. 
+Is conducted by the agency itself.
+
+External Test
+
+C. 
+Is conducted by a group independent of the agency being tested.
+
+All Answer Choices
+A. 
+The analyst(s) are aware they are being tested.
+
+B. 
+Is conducted by the agency itself.
+
+C. 
+Is conducted by a group independent of the agency being tested.
+
+D. 
+The analyst(s) are not aware they are being tested.
+
