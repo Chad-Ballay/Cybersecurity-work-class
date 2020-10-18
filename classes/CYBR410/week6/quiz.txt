@@ -1,0 +1,79 @@
+For MySQL, the ____ command is used to provide access to a privilege.
+Selected Answer:	
+GRANT
+
+____ is the system administrator login in SQL Server and it holds great power on the database.
+Selected Answer:	
+SA
+
+Kerberos uses symmetric-key ____ to verify the identity of a client to a server and a server to a client.
+Selected Answer:	
+cryptology
+
+Both statistical and logical inference can be identified by monitoring and analyzing unusual queries and by setting a baseline and threshold alert for unusual user activity.
+Selected Answer:	
+True
+
+A user can only be assigned a single role.
+Selected Answer:	
+False
+
+Mixed Mode Authentication is the recommended authentication mode for SQL Server.
+Selected Answer:	
+False
+
+In Oracle, a user profile can be created using the ____ command.
+Selected Answer:	
+CREATE_PROFILE
+
+PKI verifies a requester’s identity by assigning a(n) ____ to a user for authentication into secure environments.
+Selected Answer:	
+digital certificate
+
+____ is a strategy that allows the database to contain multiple instances of a record, all pointing to the same primary key, but which contains and displays different values to users of different security classifications.
+Selected Answer:	
+Polyinstantiation
+
+Windows authentication is also known as ____ authentication.
+Selected Answer:	
+trusted
+
+The Kerberos process begins when a user or application attempts to log in to an environment using an application or a ____ using the Kerberos protocol.
+Selected Answer:	
+Web form
+
+A ____ is a piece of information that is used to verify identity, such as a person’s username and password, an application’s secure ID, or a host’s network name and address.
+Selected Answer:	
+credential
+
+Usage agreements commonly include a policy that informs users not to tell their password to anyone in the organization.
+Selected Answer:	
+True
+
+The process for which permissions are applied to a user is known as ____.
+Selected Answer:	
+authorization
+
+____ Authentication is a form of authentication that allows both Windows authentication and SQL Server authentication to be used to obtain access into the database.
+Selected Answer:	
+Mixed Mode
+
+____ linked databases can only be accessed by the user who created the link itself.
+Selected Answer:	
+Private
+
+____ is the process of confirming the identity of those individuals or applications that request access to a secure environment.
+Selected Answer:	
+Authentication
+
+A ____ is an object that is mapped to a user account within each database and is associated to users by the security identifier or SID.
+Selected Answer:	
+login
+
+Credentials that are authenticated primarily through the operating system must have an account residing on that particular operating system.
+Selected Answer:	
+True
+
+____ is the default generic database administrator account for Oracle databases.
+Selected Answer:	
+SYSTEM

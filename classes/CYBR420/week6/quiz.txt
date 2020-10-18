@@ -1,0 +1,92 @@
+This temporarily stores a print job until it can be printed.
+
+Selected Answer:	
+spooling
+
+Windows divides its Registry into sections known as the .
+
+Selected Answer:	
+HKEY
+
+How do you view the metadata of a Windows file and where would you find the date/time stamps? Where would you find the file access permissions.
+
+Selected Answer:	
+Right click on the file.  Select properties.  You'll see Created, Modified, Accessed timestamps near the bottom of the new screen.  Below that you'll see the file access permissions.
+
+Response Feedback:	[None Given]
+
+What Windows registry value would be set to automatically bypass the recycle bin when deleting files?
+
+Selected Answer:	
+NukeOnDelete
+
+Each account on a computer is assigned a unique number called a .
+
+Selected Answer:	
+Security Identifier (SID)
+
+What is the Unix/Linux command for viewing files in a directory?
+
+Selected Answer:	
+ls
+
+What is the command used from the DOS prompt to view the Windows Registry?
+
+Selected Answer:	
+regedit
+
+What are snapshots of key system settings and configurations at a specific moment in time on a Windows system?
+
+Selected Answer:	
+Restore points
+
+What is the protocol used on the Internet to browse and interact with web sites?
+
+Selected Answer:	
+HTTP
+
+What file contain preference settings and individual information for each user profile on a Windows system?
+
+Selected Answer:	
+NTUSER.DAT
+
+What is the act of making an e-mail message look like it came from someone else or a different location?
+
+Selected Answer:	
+spoofing
+
+What service is responsible for mapping domain names to specific IP addresses?
+
+Selected Answer:	
+DNS
+
+Which e-mail protocol is used by e-mail clients to receive messages?
+
+Selected Answer:	
+POP
+
+IRC is a large chat network that uses channels and has little to no oversight.
+
+Selected Answer:	
+True
+Answers:	
+
+In HTML, the text between <p> and </p> is displayed as a ________?
+
+Selected Answer:	
+paragraph
+
+Using HTTPS hides all Internet activity.
+
+Selected Answer:	
+False
+
+What is the unique number assigned to a message by the e-mail server?
+
+Selected Answer:	
+Message ID
+
+What is the binary, container file that is used by Microsoft's Internet Explorer for tracking URL information.
+
+Selected Answer:	
+INDEX.DAT
