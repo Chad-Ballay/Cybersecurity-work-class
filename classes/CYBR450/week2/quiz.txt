@@ -1,0 +1,79 @@
+________ are check lists of  what should be done in a specific procedure.
+Selected Answer:	
+Baselines
+
+CobiT focuses on ________.
+Selected Answer:	
+controlling entire IT function
+
+COSO focuses on ________.
+Selected Answer:	
+corporate internal and financial controls
+
+SLE times APO gives the ________.
+Selected Answer:	
+expected annual loss
+
+Which of the following specifies how to do certification by external parties?
+Selected Answer:	
+ISO/IEC 27000
+
+Audits place special attention on ________.
+Selected Answer:	
+compliance avoidance
+
+Closing all routes of attack into an organization's system(s) is called ________.
+Selected Answer:	
+comprehensive security
+
+________ are discretionary.
+Selected Answer:	
+Guidelines
+
+In manual procedures, the segregation of duties ________.
+Selected Answer:	
+reduces risk
+
+________ are mandatory.
+Selected Answer:	
+Standards
+
+The first step in developing an IT security plan is to ________.
+Selected Answer:	
+assess the current state of the company's security
+
+The ISO/IEC 2700 family focuses on ________.
+Selected Answer:	
+IT security governance
+
+Which of the following is a good rule for handling exceptions?
+Selected Answer:	
+All of these.
+
+A(n) ________ is a statement of  what should be done under specific circumstances.
+Selected Answer:	
+policy
+
+What security function(s) usually is(are)  not outsourced?
+Selected Answer:	
+Planning
+
+Once a company's resources are enumerated, the next step is to ________.
+Selected Answer:	
+classify them according to sensitivity
+
+A governance framework specifies how to do ________.
+Selected Answer:	
+All of these.
+
+A technical security architecture should be created ________.
+Selected Answer:	
+before a firm creates individual countermeasures
+
+In FISMA, ________ is done internally by the organization.
+Selected Answer:	
+Both certification and accreditation
+
+Which of the following is  not one of the three elements in the fraud and abuse triangle?
+Selected Answer:	
+Resistance
