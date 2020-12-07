@@ -1,0 +1,79 @@
+In 802.11i pre-shared key mode, the initial key is generated ________.
+Selected Answer:	
+from a passphrase
+
+Nearly all main border walls today use ________ filtering.
+Selected Answer:	
+stateful packet inspection
+
+A ________ attack is when a victim is flooded with SYN packets in an attempt to make many half-open TCP connections.
+Selected Answer:	
+SYN flood
+
+________ is called Port-Based Access Control.
+Selected Answer:	
+802.1X
+
+What is the SPI firewall rule for packets that only have their TCP ACK bits set but no other flags set?
+Selected Answer:	
+Pass the packet if it is part of a previously approved connection
+
+When a new EAP authentication is added, software does  not have to be changed on the ________.
+Selected Answer:	
+authenticator
+
+A ________ can be used to gather network information or user data.
+Selected Answer:	
+packet sniffer
+
+802.11i works in ________ mode.
+Selected Answer:	
+Both pre-shared key and enterprise
+
+The Wi-Fi Alliance calls 802.11i ________.
+Selected Answer:	
+WPA2
+
+A ________ firewall handling all traditional firewall functions (SPI, ACLs, etc.) as well as additional security functions such as antivirus filtering, spam filtering, application proxy filtering, and so forth.
+Selected Answer:	
+unified threat management
+
+Most central authentication servers are governed by the ________ standard.
+Selected Answer:	
+RADIUS
+
+Eavesdropping usually is more of a concern for ________ LANs than for ________ LANs.
+Selected Answer:	
+wireless, wired
+
+Which of the following measures offers strong security?
+Selected Answer:	
+Neither Turning off SSID broadcasting nor MAC access control lists
+
+A DoS attack that uses TCP flags is called a ________ attack.
+Selected Answer:	
+half-open
+
+If a firewall cannot keep up with traffic volume, it will ________.
+Selected Answer:	
+drop packets it cannot process
+
+NAT is able to stop ________.
+Selected Answer:	
+Both scanning probes and sniffers from learning anything about the internal IP address of internal hosts
+
+What mistake did the 802.11i Working Group make when creating IVs?
+Selected Answer:	
+Making the IV too short
+
+________ detection looks at traffic patterns for deviations from set norms.
+Selected Answer:	
+Anomaly
+
+The original 802.11 core security protocol, ________, was deeply flawed.
+Selected Answer:	
+WEP
+
+An EAP message begins with an ________ message.
+Selected Answer:	
+EAP start
