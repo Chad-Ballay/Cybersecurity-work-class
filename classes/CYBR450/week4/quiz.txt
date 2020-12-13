@@ -1,0 +1,59 @@
+The principle of ________ states that each person should only get the permissions that he or she absolutely needs to do his or her job.
+Selected Answer:	
+least permissions
+
+If Directory Server A trusts Directory Server Band Directory Server B trusts Directory Server A, this is ________ trust.
+Selected Answer:	
+Mutual
+
+Which of the following statements is true about log files?
+Selected Answer:	
+All of these
+
+The standard for sending security assertions is ________.
+Selected Answer:	
+SAML
+
+A(n) ________ is a statement from Firm A that Firm B should accept as true if Firm B trusts Firm A.
+Selected Answer:	
+assertion
+
+________ is the process of collecting information about the activities of each individual in log files for immediate and later analysis.
+Selected Answer:	
+Auditing
+
+A ________ card is an access card that has a built-in microprocessor and memory.
+Selected Answer:	
+smart
+
+________ often get their authentication information from ________.
+Selected Answer:	
+Central authentication servers, directory servers
+
+Microsoft's directory server product is ________.
+Selected Answer:	
+Active Directory
+
+________ is the centralized policy based management of all information required for access to corporate systems by people, machines, programs, or other resources.
+Selected Answer:	
+Identity management
+
+In ________ the department has discretion over giving access to individuals, within policy standards set by higher authorities.
+Selected Answer:	
+discretionary access control
+
+In Kerberos, the ________ is the supplicant's proof that it has already authenticated itself with the Kerberos Server.
+Selected Answer:	
+ticket granting ticket
+
+In directory servers, information is organized ________.
+Selected Answer:	
+hierarchically
+
+Two-factor authentication can be defeated if ________.
+Selected Answer:	
+Both the user's computer is compromised and the attacker uses a man-in-the-middle attack
+
+Directory servers can hold information about ________.
+Selected Answer:	
+Both people and computers
