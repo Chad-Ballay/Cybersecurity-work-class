@@ -1,0 +1,59 @@
+Which of the following is  not a type of fix for vulnerabilities?
+Selected Answer:	
+All of these  are types of fixes for vulnerabilities
+
+The Local Users and Groups snap-in is available on the ________ MMC.
+Selected Answer:	
+Computer Management
+
+Inheritance ________ labor costs in assigning permissions.
+Selected Answer:	
+reduces
+
+If an attacker takes over a firewall, he or she will be able to ________.
+Selected Answer:	
+All of these
+
+A Windows systems administrator should use the Administrator account ________.
+Selected Answer:	
+as little as possible, and only when needed
+
+UNIX allows permissions to be assigned to ________.
+Selected Answer:	
+All of these
+
+UNIX command line interfaces are called ________.
+Selected Answer:	
+shells
+
+In UNIX, the ________ permission allows the user to make changes.
+Selected Answer:	
+write
+
+UNIX offers ________ directory and file permissions than (as) Windows.
+Selected Answer:	
+fewer
+
+A ________ is an individual application on the tree pane of an MMC that can be added or dropped from the tree list easily.
+Selected Answer:	
+snap-in
+
+The core part of the LINUX operating system is called ________.
+Selected Answer:	
+the kernel
+
+The super user account in Windows is called the ________.
+Selected Answer:	
+Administrator
+
+What is the name for a small program that fixes a particular vulnerability?
+Selected Answer:	
+Patch
+
+MMCs are administrative used to manage ________ servers.
+Selected Answer:	
+Microsoft
+
+Inheritance can be modified from the ________ box in the security tab.
+Selected Answer:	
+Both allow permissions and deny permissions
