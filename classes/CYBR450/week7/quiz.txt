@@ -1,0 +1,99 @@
+The ________ is responsible for integrating the information from the multiple agents that run on multiple monitoring devices.
+Selected Answer:	
+manager
+
+A(n) ________ is a professional who is trained to collect and evaluate computer evidence in ways that are likely to be admissible in court.
+Selected Answer:	
+computer forensics expert
+
+Disconnection ________.
+Selected Answer:	
+is the most decisive way to do termination
+
+________ is the process of obscuring data such that it cannot identify a specific person, but remains practically useful.
+Selected Answer:	
+Data masking
+
+If an IDS cannot process all of the packets it receives, it will ________ packets it cannot process.
+Selected Answer:	
+drop
+
+Which of the following database events should be regularly audited?
+Selected Answer:	
+All of these
+
+________ evidence is evidence that is acceptable for court proceedings.
+Selected Answer:	
+Forensic
+
+Integrated log files are ________ event logs from multiple IDSs.
+Selected Answer:	
+aggregated
+
+Dropping all future packets from a particular IP address is called ________.
+Selected Answer:	
+black holing
+
+18 U.S.C. § 1030 prohibits ________.
+Selected Answer:	
+All of these
+
+The ________ collects event data and stores them in log files on the monitoring devices.
+Selected Answer:	
+agent
+
+The analysis of multi-event patterns is called ________.
+Selected Answer:	
+event correlation
+
+________ eliminates the problem of having to re-baseline the system to proper security levels.
+Selected Answer:	
+Using a disk image
+
+False alarms in an IDS are known as ________.
+Selected Answer:	
+false positives
+
+Which of the following is  not one of the four security levels of incidents?
+Selected Answer:	
+Virus epidemics
+
+________ is concerned with the restarting of the day-to-day revenue generating operations of the firm.
+Selected Answer:	
+Business continuity planning
+
+The decision to let an attack continue should be made by ________.
+Selected Answer:	
+senior business executives
+
+The business continuity team should be headed by ________.
+Selected Answer:	
+a senior business manager
+
+________ is the act of actually stopping an incident's damage.
+Selected Answer:	
+Containment
+
+A major security incident is generally handled by the ________.
+Selected Answer:	
+CSIRT
+
+________ is the act of passing an incident to the CSIRT or business continuity team.
+Selected Answer:	
+Escalation
+
+Getting a firm's IT back into operation is ________.
+Selected Answer:	
+IT disaster recovery
+
+Which of the following should the CSIRT include?
+Selected Answer:	
+All of these
+
+________ allows a response team to determine an incident's damage potential and to gather information needed to begin containment and recovery.
+Selected Answer:	
+Analysis
+
+Who should head the CSIRT?
+Selected Answer:	
+A senior manager
