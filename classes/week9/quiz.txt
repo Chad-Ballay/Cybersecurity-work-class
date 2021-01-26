@@ -1,0 +1,151 @@
+# final quiz
+In Kerberos, the ________ is sent from the Kerberos server to the supplicant.
+Both A and B
+
+In the military, departments do not have the ability to alter access control rules set by higher authorities in ________.
+mandatory access control
+
+The standard for sending security assertions is ________.
+SAML
+
+In the context of PKI, ________ is the process of accepting public keys and providing new digital certificates to the users.
+provisioning
+
+If Directory Server A trusts Directory Server B, Directory Server B trusts Directory Server C, and Directory Server A trusts Directory Server C, this is ________ trust.
+Transitive
+
+Integrated log files ________.
+Both tend to have problems with format incompatibilities and tend to have time synchronization problems
+
+A ________ is a fake network segment with multiple clients and servers.
+honeypot
+
+The analysis of multi-event patterns is called ________.
+event correlation
+
+18 U.S.C. § 1030 prohibits ________.
+All of these
+
+An IDS is a ________ control.
+detective
+
+Which of the following is a benefit of using a central authentication server in 802.1X?
+All of these
+
+In pre-shared key mode, a passphrase should be at least ________ characters long?
+20
+
+When a new EAP authentication is added, software does  not have to be changed on the ________.
+authenticator
+
+Most central authentication servers are governed by the ________ standard.
+RADIUS
+
+Eavesdropping usually is more of a concern for ________ LANs than for ________ LANs.
+wireless, wired
+
+________ introduced community strings for security, in which a shared secret was used to authenticate messages.
+SNMP V2
+
+In a URL, ".." (without the quotes) means ________.
+move one directory up
+
+In a(n) ________ attack, the user enters part of a database query instead of giving the expected input.
+SQL injection attack
+
+SIP requires port ________ to be open.
+5060
+
+Which of the following uses a PKI?
+S/MIME
+
+CobiT focuses on ________.
+controlling entire IT function
+
+In manual procedures, the segregation of duties ________.
+reduces risk
+
+COSO focuses on ________.
+corporate internal and financial controls
+
+What type of organization is subject to FISMA?
+Government organizations
+
+The ISO/IEC 2700 family focuses on ________.
+IT security governance
+
+Following someone through a secure door for access without using an authorized ID card or pass code is called ________. (Choose the most specific answer.)
+piggybacking
+
+A(n) ________ attack requires a victim host to prepare for many connections, using up resources until the computer can no longer serve legitimate users. (Choose the most specific choice.)
+SYN Flooding
+
+A program that gives the attacker remote access control of your computer is specifically called a ________.
+RAT
+
+In a virus, the code that does damage is called the ________.
+payload
+
+Sending packets with false IP source addresses is called ________.
+IP address spoofing
+
+Which of the following database events should be regularly audited?
+All of these
+
+Another name for RAID 5 is ________.
+Distributed Parity
+
+________ is an example of PII.
+Social Security number
+
+________ backups only back up data that has changed since the most recent full backup.
+Incremental
+
+________ is the process of obscuring data such that it cannot identify a specific person, but remains practically useful.
+Data masking
+
+An attack where an adversary intercepts an encrypted message and transmits it again later is called a ________.
+replay attack
+
+In public key encryption for authentication, the supplicant uses ________ to encrypt.
+the supplicant's private key
+
+3DES is ________.
+All of these
+
+IPsec operates at the ________ layer.
+internet
+
+When two parties in an IPsec connection communicate back and forth, there are ________ security associations.
+2
+
+The Local Users and Groups snap-in is available on the ________ MMC.
+Computer Management
+
+________ is a password-cracking method wherein the attacker tries all possible passwords, starting with single-character passwords.
+Brute-force guessing
+
+Which of the following is  not a standard Windows privilege?
+All
+
+A Windows systems administrator should use the Administrator account ________.
+as little as possible, and only when needed
+
+A ________ is an individual application on the tree pane of an MMC that can be added or dropped from the tree list easily.
+snap-in
+
+Nearly all main border walls today use ________ filtering.
+stateful packet inspection
+
+________ firewalls filter traffic passing between different parts of a site's network.
+Internal
+
+A ________ firewall handling all traditional firewall functions (SPI, ACLs, etc.) as well as additional security functions such as antivirus filtering, spam filtering, application proxy filtering, and so forth.
+unified threat management
+
+If a firewall cannot keep up with traffic volume, it will ________.
+drop packets it cannot process
+
+________ firewalls always examine application messages in depth.
+Application proxy
+
