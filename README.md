@@ -7,10 +7,10 @@ Repo of coursework for BS Cybersecurity.
 
 | Course | Date | Grade|  
 | ------------- | ------------- | ------------- |  
-| [CYBR 250](classes/CYBR250/ ) | 11/18/2019  | A |
-| [CIS 313](classes/CIS313/ | 11/18/2019  | A |
-| [CIS 312](classes/CIS312/ ) | 2/10/2019 | A |
-| [CIS 311](classes/CIS311/ ) | 2/10/2019 | A |
+| [CYBR 250](classes/CYBR250/ ) | 11/18/2019 | A |
+| [CIS 313](classes/CIS313/ ) | 11/18/2019 | A |
+| [CIS 312](classes/CIS312/ ) | 2/10/2020 | A |
+| [CIS 311](classes/CIS311/ ) | 2/10/2020 | A |
 | [CIS 411](classes/CIS411/ ) | 4/20/2020 | A |
 | [CYBR 320](classes/CYBR320/ ) | 4/20/2020 | A |
 | [CYBR 340](classes/CYBR340/ ) | 6/29/2020 | B- |
