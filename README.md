@@ -17,8 +17,8 @@ Repo of coursework for BS Cybersecurity.
 | [CYBR 350](classes/CYBR350/ ) | 6/29/2020 | B |
 | [CYBR 410](classes/CYBR410/ ) | 9/7/2020 | C+ |
 | [CYBR 420](classes/CYBR420/ ) | 9/7/2020 | B |
-| [CYBR 430](classes/CYBR430/ ) | 11/16/2020 |  |
-| [CYBR 450](classes/CYBR450/ ) | 11/16/2020 |  |
+| [CYBR 430](classes/CYBR430/ ) | 11/16/2020 | B- |
+| [CYBR 450](classes/CYBR450/ ) | 11/16/2020 | A- |
 
 ## Links
 *  [Guild](https://www.guildeducation.com/) - $1 day to go to school.  
